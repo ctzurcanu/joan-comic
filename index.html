@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jeanne d'Arc - Comic Gallery</title>
+    <link rel="stylesheet" href="./styles.css?v=20260511-lang-switch" />
+    <script src="https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.2.4/dist/svg.min.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Jeanne d'Arc</h1>
+        <p id="status">Chargement des scènes...</p>
+      </div>
+      <div class="actions">
+        <select id="languageSelect" aria-label="Langue">
+          <option value="fr" selected>Français</option>
+          <option value="en">English</option>
+        </select>
+        <select id="presentationMode" aria-label="Présentation">
+          <option value="grid" selected>Planche</option>
+          <option value="gallery">Galerie</option>
+        </select>
+        <button id="editToggle" type="button">Mode édition</button>
+        <button id="addBalloon" type="button" disabled>Ajouter une bulle</button>
+        <button id="exportJson" type="button">Exporter JSON</button>
+        <button id="resetLocal" type="button">Réinitialiser</button>
+      </div>
+    </header>
+
+    <div class="workspace">
+      <main class="viewer-shell">
+        <button id="prevFrame" class="nav-arrow prev" type="button" aria-label="Scène précédente">‹</button>
+        <div id="gallery" class="gallery" aria-live="polite"></div>
+        <button id="nextFrame" class="nav-arrow next" type="button" aria-label="Scène suivante">›</button>
+      </main>
+
+      <aside id="editorPanel" class="editor-panel">
+        <h2>Édition</h2>
+        <p id="editorEmpty" class="hint">Activez le mode édition, choisissez une scène, puis sélectionnez une bulle.</p>
+        <div id="newFrameFields" hidden>
+          <label>
+            Type de scène
+            <select id="newFrameType">
+              <option value="image">image PNG</option>
+              <option value="markdown">markdown</option>
+            </select>
+          </label>
+          <label id="newFramePathLabel">
+            Chemin du PNG
+            <input id="newFramePath" type="text" placeholder="scenes/nouvelle-scene.png" />
+          </label>
+          <label id="newFrameMarkdownLabel" hidden>
+            Texte markdown
+            <textarea id="newFrameMarkdown" rows="8"></textarea>
+          </label>
+          <label id="newFrameFontLabel" hidden>
+            Taille de police
+            <input id="newFrameFontSize" type="number" min="20" max="90" step="1" value="38" />
+          </label>
+          <div class="editor-actions">
+            <button id="confirmNewFrame" type="button">Insérer</button>
+            <button id="cancelNewFrame" type="button">Annuler</button>
+          </div>
+        </div>
+        <div id="editorFields" hidden>
+          <label>
+            Texte
+            <textarea id="balloonText" rows="6"></textarea>
+          </label>
+          <div class="inline-fields">
+            <label>
+              Type
+              <select id="balloonType">
+                <option value="dialogue">dialogue</option>
+                <option value="thought">thought</option>
+                <option value="scream">scream</option>
+                <option value="caption">caption</option>
+                <option value="letter">letter</option>
+              </select>
+            </label>
+            <label>
+              Police
+              <input id="fontSize" type="number" min="16" max="72" step="1" />
+            </label>
+          </div>
+          <div class="inline-fields">
+            <label>
+              Largeur max texte
+              <input id="balloonWidth" type="number" min="120" max="900" step="10" />
+            </label>
+            <label>
+              Hauteur auto
+              <input id="balloonHeight" type="number" min="80" max="520" step="10" disabled />
+            </label>
+          </div>
+          <fieldset class="coord-fields">
+            <legend>Coordonnées normalisées</legend>
+            <div class="inline-fields">
+              <label>
+                Centre X
+                <input id="centerX" type="number" min="0" max="1" step="0.001" />
+              </label>
+              <label>
+                Centre Y
+                <input id="centerY" type="number" min="0" max="1" step="0.001" />
+              </label>
+            </div>
+            <div class="inline-fields">
+              <label>
+                Source X
+                <input id="sourceX" type="number" min="0" max="1" step="0.001" />
+              </label>
+              <label>
+                Source Y
+                <input id="sourceY" type="number" min="0" max="1" step="0.001" />
+              </label>
+            </div>
+          </fieldset>
+          <button id="deleteBalloon" type="button">Supprimer la bulle</button>
+          <p class="hint">Les points sont stockés en coordonnées normalisées de la scène, de 0 à 1. Glissez le centre ou la source pour les déplacer.</p>
+        </div>
+        <div id="markdownFields" hidden>
+          <label>
+            Texte markdown
+            <textarea id="markdownText" rows="10"></textarea>
+          </label>
+          <label>
+            Taille de police
+            <input id="markdownFontSize" type="number" min="20" max="90" step="1" />
+          </label>
+          <label>
+            Police
+            <select id="markdownFontFamily">
+              <option value="Bastarda" selected>Bastarda</option>
+              <option value="Rotunda">Rotunda</option>
+              <option value="TexturaModern">Textura Modern</option>
+              <option value="system">Sans système</option>
+            </select>
+          </label>
+          <p class="hint">Cette scène est rendue en HTML sur fond brun clair.</p>
+        </div>
+      </aside>
+    </div>
+
+    <script src="./app.js?v=20260511-lang-switch"></script>
+  </body>
+</html>

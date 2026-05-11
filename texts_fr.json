@@ -1,0 +1,5240 @@
+{
+  "language": "fr",
+  "title": "Jeanne d'Arc",
+  "schema": "comic-balloons-v1",
+  "coordinateSpace": {
+    "type": "normalized",
+    "width": 1672,
+    "height": 941
+  },
+  "frames": [
+    {
+      "id": "cover",
+      "image": "cover.png",
+      "balloons": []
+    },
+    {
+      "id": "a01",
+      "image": "a01.png",
+      "balloons": []
+    },
+    {
+      "id": "f-au-xiv-et-xv-si-cle-une-lon",
+      "markdown": "Aux XIVe et XVe siècles, une longue série de luttes mettait aux prises la FRANCE et l'ANGLETERRE. C'est ce que l'on appellera la GUERRE DE CENT ANS :\nLongue suite de défaites, CRÉCY (1346), CALAIS, POITIERS, VERNEUIL, puis de victoires du Connétable BERTRAND DU GUESCLIN (mort en 1380).\nC'est d'autre part la MISÈRE GÉNÉRALE DE L'OCCIDENT :\nLa grande famine de 1315, la peste noire, des troubles sociaux et des mouvements populaires provoqués par la guerre et les fléaux en France, Angleterre, Allemagne et Bohème.",
+      "balloons": [],
+      "fontSize": 20,
+      "fontFamily": "system"
+    },
+    {
+      "id": "a11",
+      "image": "a11.png",
+      "balloons": []
+    },
+    {
+      "id": "depuis-1378-l-epreuve-du-grand",
+      "markdown": "Depuis 1378, l'épreuve du Grand Schisme déchire la chrétienté, il y a un pape à Rome, un autre à Avignon, et la situation se prolongera pendant près d'un demi-siècle.\nLe 5 Août 1392, c'est le drame à la cour de France, le roi CHARLES VI devient fou.\nEn 1411 c'est la guerre entre ARMAGNACS et BOURGUIGNONS.\nAprès le traité de Troyes et la mort de Charles VI en 1422, les Anglais maîtres de la Guyenne, unis au duc de Bourgogne, soutenus par la Bretagne, tiennent le nord et le centre de la France jusqu'à la Loire, à l'exclusion du MONT-SAINT-MICHEL, invincible forteresse.\nLe DAUPHIN CHARLES VII se réfugia à BOURGES. Tout manquait, les hommes, les ressources, la volonté même de résister. Désespérant de sa cause, il songeait à fuir en Dauphiné ou en Castille.",
+      "fontSize": 16,
+      "balloons": [],
+      "fontFamily": "system"
+    },
+    {
+      "id": "france-1428",
+      "image": "France_1428.png",
+      "balloons": []
+    },
+    {
+      "id": "face-a-la-misere-du-peuple-franc",
+      "markdown": "Face à la misère du peuple français, dans un village perdu de Lorraine, une petite paysanne se leva...",
+      "fontSize": 60,
+      "balloons": [],
+      "fontFamily": "Bastarda"
+    },
+    {
+      "id": "domremi",
+      "image": "Domremi.png",
+      "balloons": [
+        {
+          "id": "31f41a71-1340-4507-96a0-df1b25be1a54",
+          "type": "caption",
+          "text": "Jeanne naquit le 6 janvier 1412, jour de l'Épiphanie, à Domrémy, petit village de Lorraine.",
+          "center": {
+            "x": 0.35794987290669855,
+            "y": 0.8529327697429596
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "image": "work.png",
+      "balloons": [
+        {
+          "id": "1cbd27f9-1bf3-46b3-8c5c-6f1e56e0de55",
+          "type": "caption",
+          "text": "ELLE FAISAIT VOLONTIERS TOUT CE QU'ELLE AVAIT À FAIRE",
+          "center": {
+            "x": 0.6160128176748467,
+            "y": 0.8613296671592721
+          },
+          "source": {
+            "x": 0.49,
+            "y": 0.425
+          },
+          "width": 360,
+          "height": 229,
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "id": "generated-2",
+      "image": "Generated image 2.png",
+      "balloons": [
+        {
+          "id": "b-2-1",
+          "type": "caption",
+          "text": "ELLE FAISAIT VOLONTIERS TOUT CE QU'ELLE AVAIT À FAIRE",
+          "center": {
+            "x": 0.7190863913212096,
+            "y": 0.8629256874595261
+          },
+          "source": {
+            "x": 0.62,
+            "y": 0.45
+          },
+          "width": 500,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-3",
+      "image": "Generated image 3.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-4",
+      "image": "Generated image 4.png",
+      "balloons": [
+        {
+          "id": "b-4-1",
+          "type": "caption",
+          "text": "JEANNE ÉTAIT UNE PETITE PAYSANNE \"COMME LES AUTRES\"",
+          "center": {
+            "x": 0.5320399088152288,
+            "y": 0.8671202043620484
+          },
+          "source": {
+            "x": 0.4411279413688696,
+            "y": 0.4203620286347636
+          },
+          "width": 560,
+          "height": 123,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-5",
+      "image": "Generated image 5.png",
+      "balloons": [
+        {
+          "id": "b-5-1",
+          "type": "caption",
+          "text": "OR UN JOUR, À L'HEURE DE MIDI...",
+          "center": {
+            "x": 0.579,
+            "y": 0.801
+          },
+          "source": {
+            "x": 0.514,
+            "y": 0.477
+          },
+          "width": 560,
+          "height": 92,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-6",
+      "image": "Generated image 6.png",
+      "balloons": [
+        {
+          "id": "b-6-1",
+          "type": "dialogue",
+          "text": "Jeanne, sois bonne et sage. Va souvent à l'église.",
+          "center": {
+            "x": 0.354,
+            "y": 0.137
+          },
+          "source": {
+            "x": 0.6160668186023475,
+            "y": 0.1955963361782678
+          },
+          "width": 430,
+          "height": 289,
+          "fontSize": 47
+        }
+      ]
+    },
+    {
+      "id": "generated-image-6",
+      "image": "Generated image 6.png",
+      "balloons": [
+        {
+          "id": "d3dad0a1-2bc0-4031-9248-64912ff9d580",
+          "type": "dialogue",
+          "text": "Il y a grande pitié au royaume de France.",
+          "center": {
+            "x": 0.387,
+            "y": 0.117
+          },
+          "source": {
+            "x": 0.623,
+            "y": 0.196
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-7",
+      "image": "Generated image 7.png",
+      "balloons": [
+        {
+          "id": "b-7-1",
+          "type": "thought",
+          "text": "La voix est douce et noble... Ce doit être la voix de Dieu.",
+          "center": {
+            "x": 0.3,
+            "y": 0.17
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.178
+          },
+          "width": 440,
+          "height": 127,
+          "fontSize": 31
+        }
+      ]
+    },
+    {
+      "id": "generated-8",
+      "image": "Generated image 8.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-9",
+      "image": "Generated image 9.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-11",
+      "image": "Generated image 11.png",
+      "balloons": [
+        {
+          "id": "b-11-1",
+          "type": "dialogue",
+          "text": "Jeanne, tu me parais bien rêveuse. Tu n'aurais pas un galant, dis-moi ?",
+          "center": {
+            "x": 0.358,
+            "y": 0.629
+          },
+          "source": {
+            "x": 0.4,
+            "y": 0.355
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-12",
+      "image": "Generated image 12.png",
+      "balloons": [
+        {
+          "id": "0841f725-4c02-4718-a7b1-3ab9c60bf8d8",
+          "type": "caption",
+          "text": "ELLE NE DIT RIEN A SES PARENTS DES VOIX DU CIEL QUI VENAIENT LA COMMANDER\n\nJEANNE GARDERA LONG TEMPS SON SECRET...",
+          "center": {
+            "x": 0.8038458322041342,
+            "y": 0.8236160147947662
+          },
+          "source": {
+            "x": 0.537,
+            "y": 0.447
+          },
+          "width": 450,
+          "height": 253,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-13",
+      "image": "Generated image 13.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-14",
+      "image": "Generated image 14.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-15",
+      "image": "Generated image 15.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-16",
+      "image": "Generated image 16.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-17",
+      "image": "Generated image 17.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-18",
+      "image": "Generated image 18.png",
+      "balloons": [
+        {
+          "id": "b-18-1",
+          "type": "scream",
+          "text": "LA FRANCE EST EN GRAND DANGER. \nTU DOIS ALLER SECOURIR LE DAUPHIN.",
+          "center": {
+            "x": 0.7160074743243494,
+            "y": 0.5555409245587307
+          },
+          "source": {
+            "x": 0.7201462887120589,
+            "y": 0.21962385349902033
+          },
+          "width": 440,
+          "height": 194,
+          "fontSize": 31
+        }
+      ]
+    },
+    {
+      "id": "generated-19",
+      "image": "Generated image 19.png",
+      "balloons": [
+        {
+          "id": "b-19-1",
+          "type": "dialogue",
+          "text": "Mais je ne saurais ni chevaucher, \nni conduire des hommes d'armes.",
+          "center": {
+            "x": 0.49717103627766146,
+            "y": 0.5898196493507571
+          },
+          "source": {
+            "x": 0.374,
+            "y": 0.38
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "id": "generated-20",
+      "image": "Generated image 20.png",
+      "balloons": [
+        {
+          "id": "b-20-1",
+          "type": "dialogue",
+          "text": "\nDIEU \nT'ASSISTERA !",
+          "center": {
+            "x": 0.636,
+            "y": 0.193
+          },
+          "source": {
+            "x": 0.393,
+            "y": 0.216
+          },
+          "width": 500,
+          "height": 204,
+          "fontSize": 44
+        }
+      ]
+    },
+    {
+      "id": "generated-image-20",
+      "image": "Generated image 20.png",
+      "balloons": [
+        {
+          "id": "f30ead84-80f3-4165-8611-3f71156c5547",
+          "type": "dialogue",
+          "text": "Rends-toi à Vaucouleurs et demande à voir le sire de Baudricourt.",
+          "center": {
+            "x": 0.248,
+            "y": 0.618
+          },
+          "source": {
+            "x": 0.343,
+            "y": 0.272
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "les-burg",
+      "markdown": "CEPENDANT, LA RÉGION FUT ENVAHIE PAR LES BOURGUIGNONS, ALLIÉS DES ANGLAIS. \n\nLES PAYSANS ET LES TROUPEAUX DEVAIENT FUIR, LAISSANT LEUR VILLAGE EN PROIE AUX SOLDATS PILLARDS.",
+      "fontSize": 28,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "generated-21",
+      "image": "Generated image 21.png",
+      "balloons": [
+        {
+          "id": "b-21-1",
+          "type": "caption",
+          "text": "À leur retour, ils constatèrent les désastres : maisons, étables et église en partie brûlées.",
+          "center": {
+            "x": 0.473,
+            "y": 0.803
+          },
+          "source": {
+            "x": 0.59,
+            "y": 0.47
+          },
+          "width": 520,
+          "height": 154,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-image-13",
+      "image": "Generated image 13.png",
+      "balloons": [
+        {
+          "id": "3ed31280-7589-4834-8e04-1d23134fb4db",
+          "type": "dialogue",
+          "text": "Si elle doit chevaucher avec des guerriers, je la noierai moi-même !",
+          "center": {
+            "x": 0.484,
+            "y": 0.637
+          },
+          "source": {
+            "x": 0.383,
+            "y": 0.358
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "les-premiers-jours-de-mai-jeann",
+      "markdown": "LES PREMIERS JOURS DE MAI, JEANNE ALLA SOIGNER UNE PARENTE À BUREY...\n\nELLE SE RENDIT CHEZ SON ONCLE DURAND LAXART QUI LOGEAIT TOUT PRÈS.",
+      "fontSize": 29,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "generated-22",
+      "image": "Generated image 22.png",
+      "balloons": [
+        {
+          "id": "b-22-1",
+          "type": "dialogue",
+          "text": "Vous devez m'aider à convaincre le sire de Baudricourt de me donner une escorte.",
+          "center": {
+            "x": 0.677,
+            "y": 0.191
+          },
+          "source": {
+            "x": 0.456,
+            "y": 0.398
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 25
+        },
+        {
+          "id": "b-22-2",
+          "type": "dialogue",
+          "text": "Il faut essayer, mon oncle !",
+          "center": {
+            "x": 0.6779869676799866,
+            "y": 0.6086342264919301
+          },
+          "source": {
+            "x": 0.45,
+            "y": 0.45
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-71",
+      "image": "Generated image 71.png",
+      "balloons": [
+        {
+          "id": "b-71-1",
+          "type": "dialogue",
+          "text": "C'est ici que l'on peut trouver Baudricourt, mais ton idée me semble folle.",
+          "center": {
+            "x": 0.24131910099595355,
+            "y": 0.6257975236201515
+          },
+          "source": {
+            "x": 0.377,
+            "y": 0.365
+          },
+          "width": 330,
+          "height": 233,
+          "fontSize": 32
+        },
+        {
+          "id": "b-71-2",
+          "type": "dialogue",
+          "text": "Vous m'aviez promis, mon oncle !",
+          "center": {
+            "x": 0.755,
+            "y": 0.663
+          },
+          "source": {
+            "x": 0.571,
+            "y": 0.489
+          },
+          "width": 210,
+          "height": 165,
+          "fontSize": 31
+        },
+        {
+          "id": "dd912eb3-ef92-4b84-95f7-beabcce90f32",
+          "type": "dialogue",
+          "text": "Bon, bon, attends-moi. Je vais faire mon possible.\nDIEU ME VIENNE EN AIDE !",
+          "center": {
+            "x": 0.496,
+            "y": 0.818
+          },
+          "source": {
+            "x": 0.403,
+            "y": 0.367
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "04414ca2-3c90-4353-8939-f39eb69517ce",
+          "type": "caption",
+          "text": "PLUS TARD, À VALCOULEURS",
+          "center": {
+            "x": 0.11483274578477778,
+            "y": 0.07877564190044666
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-72",
+      "image": "Generated image 72.png",
+      "balloons": [
+        {
+          "id": "b-72-1",
+          "type": "dialogue",
+          "text": "Messire, je viens au nom de ma nièce. \nElle dit que Saint Michel la recommande à vous.\nJeanne désire une escorte pour l'amener auprès du Dauphin.\nEH, LA VOIX DU SEIGNEUR LE LUI ORDONNE.",
+          "center": {
+            "x": 0.265,
+            "y": 0.724
+          },
+          "source": {
+            "x": 0.351,
+            "y": 0.302
+          },
+          "width": 420,
+          "height": 352,
+          "fontSize": 30
+        },
+        {
+          "id": "121b13c5-ffaf-46e6-9ff2-0b0dc6598547",
+          "type": "dialogue",
+          "text": "Ça suffit ! Ta nièce est folle, Laxart. Ramène-la donc à son père !\nQU'IL LUI DONNE UNE BONNE PAIRE DE\nGIFLES !\n",
+          "center": {
+            "x": 0.608,
+            "y": 0.744
+          },
+          "source": {
+            "x": 0.756,
+            "y": 0.39
+          },
+          "width": 360,
+          "height": 254,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-75",
+      "image": "Generated image 75.png",
+      "balloons": [
+        {
+          "id": "b-75-1",
+          "type": "scream",
+          "text": "ALLEZ, DISPARAIS.\nMAINTENANT, JE SUIS TRÈS OCCUPÉ.",
+          "center": {
+            "x": 0.363,
+            "y": 0.643
+          },
+          "source": {
+            "x": 0.377,
+            "y": 0.438
+          },
+          "width": 320,
+          "height": 154,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-81",
+      "image": "Generated image 81.png",
+      "balloons": [
+        {
+          "id": "b-81-1",
+          "type": "caption",
+          "text": "Tiens, voilà la gamine qui veut sauver la France.",
+          "center": {
+            "x": 0.6122286344829359,
+            "y": 0.81537173588395
+          },
+          "source": {
+            "x": 0.64,
+            "y": 0.47
+          },
+          "width": 430,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-83",
+      "image": "Generated image 83.png",
+      "balloons": [
+        {
+          "id": "b-83-1",
+          "type": "dialogue",
+          "text": "Elle compte chasser l'Anglais à coups de quenouille !",
+          "center": {
+            "x": 0.5559121283572256,
+            "y": 0.6272374790365968
+          },
+          "source": {
+            "x": 0.714889234332947,
+            "y": 0.3568887740975359
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "generated-84",
+      "image": "Generated image 84.png",
+      "balloons": [
+        {
+          "id": "b-84-1",
+          "type": "scream",
+          "text": "AH NON, ELLE NE VA PAS RECOMMENCER !\nLaisse ces affaires aux hommes et retourne à tes moutons, AVANT QUE JE TE FASSE JETER DEHORS.",
+          "center": {
+            "x": 0.7941605440714713,
+            "y": 0.6744059184253787
+          },
+          "source": {
+            "x": 0.7537904584236692,
+            "y": 0.3957766331217621
+          },
+          "width": 500,
+          "height": 319,
+          "fontSize": 30
+        },
+        {
+          "id": "75f8bda3-1221-4afa-8213-c95da812b21c",
+          "type": "dialogue",
+          "text": "Messire, je suis Jeanne de Domrémy. Je vous supplie de m'écouter.",
+          "center": {
+            "x": 0.4672212737599058,
+            "y": 0.6631724582392402
+          },
+          "source": {
+            "x": 0.36719731965133445,
+            "y": 0.33862434411530284
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-85",
+      "image": "Generated image 85.png",
+      "balloons": [
+        {
+          "id": "b-85-1",
+          "type": "dialogue",
+          "text": "J'irai à Chinon, dussé-je user mes jambes jusqu'aux genoux.",
+          "center": {
+            "x": 0.472,
+            "y": 0.72
+          },
+          "source": {
+            "x": 0.345,
+            "y": 0.404
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 29
+        }
+      ]
+    },
+    {
+      "id": "jeanne-d-cida-de-s-installer-v",
+      "markdown": "JEANNE DÉCIDA DE S'INSTALLER À VALCOULEURS OÙ SES PROJETS COMMENCERAIENT À ÊTRE CONNUS DE TOUS PAR L'ENTHOUSIASME DE LA JEUNE FILLE.\n\nC'EST AINSI QU'ELLE RENCONTRA LES LEROYER, QU'ELLE CONNAISSAIT UN PEU.",
+      "fontSize": 25,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "generated-86",
+      "image": "Generated image 86.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-88",
+      "image": "Generated image 88.png",
+      "balloons": [
+        {
+          "id": "b-88-1",
+          "type": "dialogue",
+          "text": "Merci, merci de tout cœur.",
+          "center": {
+            "x": 0.3534034444270522,
+            "y": 0.719444353579968
+          },
+          "source": {
+            "x": 0.342,
+            "y": 0.362
+          },
+          "width": 190,
+          "height": 154,
+          "fontSize": 29
+        },
+        {
+          "id": "b-88-2",
+          "type": "dialogue",
+          "text": "JEANNE, CE QUE TU VEUX ACCOMPLIR EST GRAND ET NOBLE. NOUS SOMMES FIERS DE TOI ET NOUS VOUDRIONS T'AIDER",
+          "center": {
+            "x": 0.6119933200087844,
+            "y": 0.5830653456263284
+          },
+          "source": {
+            "x": 0.516,
+            "y": 0.348
+          },
+          "width": 380,
+          "height": 261,
+          "fontSize": 30
+        },
+        {
+          "id": "96642662-be13-4331-829b-6eff01394527",
+          "type": "dialogue",
+          "text": "Viens donc habiter chez nous.",
+          "center": {
+            "x": 0.863,
+            "y": 0.461
+          },
+          "source": {
+            "x": 0.7759008818265924,
+            "y": 0.25649612540266337
+          },
+          "width": 360,
+          "height": 176,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "puis-rencontrant-le-chevalier-je",
+      "markdown": "PUIS RENCONTRANT LE CHEVALIER JEAN DE METZ.",
+      "fontSize": 36,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "generated-89",
+      "image": "Generated image 89.png",
+      "balloons": [
+        {
+          "id": "b-89-1",
+          "type": "dialogue",
+          "text": "À nous deux, nous le convaincrons.\nAlors, en route pour la capitainerie.",
+          "center": {
+            "x": 0.715,
+            "y": 0.575
+          },
+          "source": {
+            "x": 0.624,
+            "y": 0.292
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 31
+        },
+        {
+          "id": "62206c7d-a0cb-4473-b09e-1b79d4eac251",
+          "type": "dialogue",
+          "text": "Aide-moi, Jean. \nIl faut obliger Baudricourt à m'écouter.",
+          "center": {
+            "x": 0.285,
+            "y": 0.711
+          },
+          "source": {
+            "x": 0.37,
+            "y": 0.442
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-91",
+      "image": "Generated image 91.png",
+      "balloons": [
+        {
+          "id": "b-91-1",
+          "type": "thought",
+          "text": "PLUS TÊTUE QU'UNE MULE,\nCETTE BERGÈRE.",
+          "center": {
+            "x": 0.769,
+            "y": 0.132
+          },
+          "source": {
+            "x": 0.839,
+            "y": 0.294
+          },
+          "width": 290,
+          "height": 157,
+          "fontSize": 30
+        },
+        {
+          "id": "48663ab6-d073-40e7-827a-75f17d50260e",
+          "type": "caption",
+          "text": "ET POUR LA TROISIÈME FOIS.",
+          "center": {
+            "x": 0.14,
+            "y": 0.855
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 280,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-92",
+      "image": "Generated image 92.png",
+      "balloons": [
+        {
+          "id": "b-92-1",
+          "type": "dialogue",
+          "text": "Vous devez me fournir cette escorte. Le sort de la France dépend de vous.",
+          "center": {
+            "x": 0.202,
+            "y": 0.692
+          },
+          "source": {
+            "x": 0.331,
+            "y": 0.34
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 28
+        },
+        {
+          "id": "70b709f9-d0ba-4929-aa83-a1a4fe25c496",
+          "type": "dialogue",
+          "text": "Encore toi ! Tu as juré de me pousser à bout!\nDÉJÀ, DANS TOUTE LA VILLE TU AS MONTÉ LA TÊTE DES BRAVES GENS.",
+          "center": {
+            "x": 0.7856506274647689,
+            "y": 0.6749446383242147
+          },
+          "source": {
+            "x": 0.6826588023792614,
+            "y": 0.4091632125481536
+          },
+          "width": 360,
+          "height": 249,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-93",
+      "image": "Generated image 93.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-94",
+      "image": "Generated image 94.png",
+      "balloons": [
+        {
+          "id": "b-94-1",
+          "type": "scream",
+          "text": "ASSEZ BAVARDE, je n'ai nulle envie de me couvrir de ridicule auprès du Dauphin.",
+          "center": {
+            "x": 0.394,
+            "y": 0.133
+          },
+          "source": {
+            "x": 0.552,
+            "y": 0.338
+          },
+          "width": 560,
+          "height": 118,
+          "fontSize": 27
+        }
+      ]
+    },
+    {
+      "id": "generated-95",
+      "image": "Generated image 95.png",
+      "balloons": [
+        {
+          "id": "b-95-1",
+          "type": "dialogue",
+          "text": "Messire de Baudricourt ! Une nouvelle défaite : l'ennemi est à deux pas d'Orléans !",
+          "center": {
+            "x": 0.406,
+            "y": 0.66
+          },
+          "source": {
+            "x": 0.376,
+            "y": 0.297
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 33
+        }
+      ]
+    },
+    {
+      "id": "generated-96",
+      "image": "Generated image 96.png",
+      "balloons": [
+        {
+          "id": "b-96-1",
+          "type": "dialogue",
+          "text": "Ne l'avais-je point prédit, messire ? \nAllez-vous enfin consentir à m'écouter ?",
+          "center": {
+            "x": 0.347,
+            "y": 0.607
+          },
+          "source": {
+            "x": 0.255,
+            "y": 0.302
+          },
+          "width": 270,
+          "height": 206,
+          "fontSize": 27
+        },
+        {
+          "id": "3cdd6914-5629-409b-b696-67a7b989c6e0",
+          "type": "dialogue",
+          "text": "Hum...",
+          "center": {
+            "x": 0.7256395987916792,
+            "y": 0.5758193934052453
+          },
+          "source": {
+            "x": 0.6963264428827751,
+            "y": 0.44980944837191156
+          },
+          "width": 360,
+          "height": 102,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-97",
+      "image": "Generated image 97.png",
+      "balloons": [
+        {
+          "id": "b-97-1",
+          "type": "dialogue",
+          "text": "Ton histoire me semble toujours aussi folle. Pourtant, il y a du vrai dans ce que tu dis.",
+          "center": {
+            "x": 0.603,
+            "y": 0.707
+          },
+          "source": {
+            "x": 0.651,
+            "y": 0.436
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 27
+        }
+      ]
+    },
+    {
+      "id": "generated-98",
+      "image": "Generated image 98.png",
+      "balloons": [
+        {
+          "id": "b-98-1",
+          "type": "dialogue",
+          "text": "Eh bien, pars donc ! Tu auras ton escorte.",
+          "center": {
+            "x": 0.611,
+            "y": 0.707
+          },
+          "source": {
+            "x": 0.678,
+            "y": 0.405
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 31
+        }
+      ]
+    },
+    {
+      "id": "generated-99",
+      "image": "Generated image 99.png",
+      "balloons": [
+        {
+          "id": "b-99-1",
+          "type": "caption",
+          "text": "Jeanne sortit avec un nouvel espoir, tandis que les hommes demeuraient sceptiques.",
+          "center": {
+            "x": 0.39784322346226453,
+            "y": 0.8302561537188248
+          },
+          "source": {
+            "x": 0.49,
+            "y": 0.48
+          },
+          "width": 540,
+          "height": 151,
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "id": "generated-101",
+      "image": "Generated image 101.png",
+      "balloons": [
+        {
+          "id": "b-101-1",
+          "type": "caption",
+          "text": "Aussitôt, les habitants de Vaucouleurs se cotisèrent pour lui procurer des habits d'homme.",
+          "center": {
+            "x": 0.321,
+            "y": 0.789
+          },
+          "source": {
+            "x": 0.52,
+            "y": 0.497
+          },
+          "width": 630,
+          "height": 118,
+          "fontSize": 27
+        }
+      ]
+    },
+    {
+      "id": "generated-102",
+      "image": "Generated image 102.png",
+      "balloons": [
+        {
+          "id": "b-102-1",
+          "type": "caption",
+          "text": "Elle se fit couper les cheveux.",
+          "center": {
+            "x": 0.6838235108590012,
+            "y": 0.8146895457479577
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.51
+          },
+          "width": 340,
+          "height": 129,
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "id": "le-23-f-vrier-1429-l-escort-ta",
+      "markdown": "LE 23 FÉVRIER 1429, L'ESCORTE ÉTAIT PRÊTE.\nSON ONCLE DURAND LAXART LUI FOURNIT UN CHEVAL - \nLES SEIGNEURS DE LA RÉGION LUI DONNÈRENT QUELQUES PIÈCES DE MONNAIE.\nSON FRÈRE PIERRE DÉCIDA DE L'ACCOMPAGNER JUSQU'À CHINON.",
+      "fontSize": 23,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "generated-103",
+      "image": "Generated image 103.png",
+      "balloons": [
+        {
+          "id": "b-103-2",
+          "type": "dialogue",
+          "text": "Dieu me conduit, il me fera le chemin libre jusqu'au Dauphin.",
+          "center": {
+            "x": 0.537,
+            "y": 0.658
+          },
+          "source": {
+            "x": 0.48057077946275045,
+            "y": 0.4169032941082459
+          },
+          "width": 240,
+          "height": 182,
+          "fontSize": 28
+        },
+        {
+          "id": "1a9cc682-62a3-431b-b806-cdde5aeab926",
+          "type": "dialogue",
+          "text": "CETTE ÉPÉE TE SERA UTILE, LE PAYS EST INFESTÉ DE BANDES ENNEMIES.",
+          "center": {
+            "x": 0.17463371970436792,
+            "y": 0.4966120571740502
+          },
+          "source": {
+            "x": 0.20985220950185968,
+            "y": 0.2950612634705433
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        },
+        {
+          "id": "c520c92f-b3a3-413a-820a-86eb33435f11",
+          "type": "dialogue",
+          "text": "ALLEZ. ET ADVIENNE QUE POURRA.",
+          "center": {
+            "x": 0.35457191503789437,
+            "y": 0.7324670993914386
+          },
+          "source": {
+            "x": 0.211,
+            "y": 0.263
+          },
+          "width": 240,
+          "height": 182,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-111",
+      "image": "Generated image 111.png",
+      "balloons": [
+        {
+          "id": "b-111-1",
+          "type": "caption",
+          "text": "C'était un voyage périlleux à travers un pays infesté de bandes ennemies.",
+          "center": {
+            "x": 0.8403045362262634,
+            "y": 0.8725488469349845
+          },
+          "source": {
+            "x": 0.52,
+            "y": 0.49
+          },
+          "width": 540,
+          "height": 181,
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "id": "letter",
+      "image": "letter.png",
+      "balloons": [
+        {
+          "id": "35c2faed-27e1-4121-890d-e22ad46c527e",
+          "type": "letter",
+          "text": "J'ai fait cent cinquante lieues pour venir à votre secours. Je vous reconnaîtrai parmi tous les autres. \n \n-\nJeanne.",
+          "center": {
+            "x": 0.501,
+            "y": 0.435
+          },
+          "source": {
+            "x": 0.502,
+            "y": 0.45
+          },
+          "width": 360,
+          "height": 420,
+          "fontSize": 50
+        }
+      ]
+    },
+    {
+      "id": "p11-2",
+      "image": "p11-2.png",
+      "balloons": [
+        {
+          "id": "97185466-80f5-43fb-8736-b484153becfe",
+          "type": "caption",
+          "text": "CEPENDANT, LE DAUPHIN RECEVAIT LA LETTRE QUE JEANNE AVAIT FAIT ENVOYER DEPUIS SAINTE-CATHERINE\nDE FIERBOIS -",
+          "center": {
+            "x": 0.39988989579050166,
+            "y": 0.8722218411939178
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 510,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p11-3",
+      "image": "p11-3.png",
+      "balloons": [
+        {
+          "id": "cab8ea18-14cf-49d6-9fca-71324540375d",
+          "type": "dialogue",
+          "text": "Allons, \ntout cela n'est pas sérieux !",
+          "center": {
+            "x": 0.339,
+            "y": 0.698
+          },
+          "source": {
+            "x": 0.397,
+            "y": 0.331
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 34
+        },
+        {
+          "id": "ecdbc57e-98e6-4bc5-b558-77613999cc2a",
+          "type": "dialogue",
+          "text": "Que faire ? Cette fille semble bien sûre d'elle, et la situation n'est guère brillante.",
+          "center": {
+            "x": 0.705,
+            "y": 0.679
+          },
+          "source": {
+            "x": 0.61,
+            "y": 0.449
+          },
+          "width": 320,
+          "height": 227,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p11-3-2",
+      "image": "p11-3.png",
+      "balloons": [
+        {
+          "id": "5a5bbb25-4b9b-4c8b-b188-920c64238906",
+          "type": "dialogue",
+          "text": "Nous allons lui tendre un piège. Faisons jouer mon rôle au comte de Clermont.\nQuant à moi, je me déguiserai dans la foule.",
+          "center": {
+            "x": 0.54,
+            "y": 0.744
+          },
+          "source": {
+            "x": 0.601,
+            "y": 0.446
+          },
+          "width": 360,
+          "height": 261,
+          "fontSize": 31
+        }
+      ]
+    },
+    {
+      "id": "p11-4",
+      "image": "p11-4.png",
+      "balloons": [
+        {
+          "id": "a7a44180-0639-49c8-9025-a7b36958db47",
+          "type": "dialogue",
+          "text": "N'OUBLIEZ PAS COMTE, CE SOIR VOUS ÊTES\nLE DAUPHIN !",
+          "center": {
+            "x": 0.317,
+            "y": 0.6
+          },
+          "source": {
+            "x": 0.452,
+            "y": 0.352
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        },
+        {
+          "id": "b02cd582-6ba3-46bb-a9e3-476a492dc834",
+          "type": "dialogue",
+          "text": "LA RESSEMBLANCE EST TELLE QU'ELLE NE POURRA PAS ME RECONNAÎTRE.",
+          "center": {
+            "x": 0.649,
+            "y": 0.557
+          },
+          "source": {
+            "x": 0.741,
+            "y": 0.232
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-image-p11",
+      "image": "Generated image p11.png",
+      "balloons": [
+        {
+          "id": "279709be-7aac-4ebb-ab70-f0d376cd91f6",
+          "type": "caption",
+          "text": "LE DOUZIÈME JOUR, JEANNE ET SES COMPAGNONS ARRIVAIENT À CHINON.",
+          "center": {
+            "x": 0.3637290114991402,
+            "y": 0.052976580791088274
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 530,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-image-rec-15-2",
+      "image": "Generated image rec-15.png",
+      "balloons": []
+    },
+    {
+      "id": "generated-image-rec-16",
+      "image": "Generated image rec-16.png",
+      "balloons": [
+        {
+          "id": "592fd4ba-5d21-4eaf-88a0-3c722e30b58f",
+          "type": "dialogue",
+          "text": "DIEU VOUS DONNE BONNE VIE, GENTIL DAUPHIN.",
+          "center": {
+            "x": 0.52,
+            "y": 0.762
+          },
+          "source": {
+            "x": 0.458,
+            "y": 0.473
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-1",
+      "image": "p13-1.png",
+      "balloons": [
+        {
+          "id": "18931579-4d9a-4436-8dc9-5b096c4b002f",
+          "type": "dialogue",
+          "text": "AINSI TU M'AS RECONNU MALGRÉ CE SUBTERFUGE.",
+          "center": {
+            "x": 0.72,
+            "y": 0.394
+          },
+          "source": {
+            "x": 0.559,
+            "y": 0.294
+          },
+          "width": 240,
+          "height": 190,
+          "fontSize": 30
+        },
+        {
+          "id": "eed49dbd-42b8-45bb-8352-3e788918bf2f",
+          "type": "dialogue",
+          "text": "OUI, DIEU ME CONDUIT ET NOUS DEVONS AGIR VITE...",
+          "center": {
+            "x": 0.424,
+            "y": 0.785
+          },
+          "source": {
+            "x": 0.379,
+            "y": 0.504
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-1-2",
+      "image": "p13-1.png",
+      "balloons": [
+        {
+          "id": "967e4ed4-3956-4203-8969-de83a27ed987",
+          "type": "dialogue",
+          "text": "C'EST LA VOLONTÉ DE DIEU QUE VOUS M'AIDIEZ À LEVER LE SIÈGE D'ORLÉANS\nPUIS JE VOUS CONDUIRAI À REIMS OÙ VOUS\nRECEVREZ VOTRE COURONNE ROYALE.",
+          "center": {
+            "x": 0.577,
+            "y": 0.789
+          },
+          "source": {
+            "x": 0.379,
+            "y": 0.478
+          },
+          "width": 460,
+          "height": 306,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-1-3",
+      "image": "p13-1.png",
+      "balloons": [
+        {
+          "id": "79099576-4751-4e0b-87df-128864cad59a",
+          "type": "dialogue",
+          "text": "TU ES VRAI HÉRITIER DE FRANCE ET FILS DE ROI, TEL LE DIT NOTRE SEIGNEUR.",
+          "center": {
+            "x": 0.32976030676444756,
+            "y": 0.7890483881010892
+          },
+          "source": {
+            "x": 0.3715143523147802,
+            "y": 0.49210048760668507
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "d4f5e10c-98a6-42b1-b458-943fbc103d16",
+          "type": "dialogue",
+          "text": "TU N'AS AUCUNE PREUVE DE CE QUE TU AVANCES.\nCOMMENT PUIS-JE TE CROIRE ?",
+          "center": {
+            "x": 0.734,
+            "y": 0.501
+          },
+          "source": {
+            "x": 0.56,
+            "y": 0.296
+          },
+          "width": 350,
+          "height": 244,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "les-paroles-de-jeanne-reconfor",
+      "markdown": "- LES PAROLES DE JEANNE RÉCONFORTÈRENT LE DAUPHIN ET LE SOULAGÈRENT D'UNE GRANDE ANXIÉTÉ -\n- TOUTEFOIS À LA COUR LES AVIS ÉTAIENT PARTAGÉS...",
+      "fontSize": 26,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p11-3-3",
+      "image": "p11-3.png",
+      "balloons": [
+        {
+          "id": "afa593ed-5bd1-4a30-bb18-f82426bc0224",
+          "type": "dialogue",
+          "text": "CETTE FILLE PEUT N'ÊTRE QU'UNE VULGAIRE SORCIÈRE !",
+          "center": {
+            "x": 0.298,
+            "y": 0.696
+          },
+          "source": {
+            "x": 0.386,
+            "y": 0.337
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "66c82f9c-5fed-4353-80bb-1aa6758e1197",
+          "type": "dialogue",
+          "text": "MAIS SI ELLE EST VÉRITABLEMENT ENVOYÉE DE DIEU ?",
+          "center": {
+            "x": 0.583,
+            "y": 0.729
+          },
+          "source": {
+            "x": 0.611,
+            "y": 0.482
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 30
+        },
+        {
+          "id": "e750637d-5712-4086-8b7a-d710e57aabb1",
+          "type": "dialogue",
+          "text": "SEULE L'UNIVERSITÉ DE PARIS A LE POUVOIR D'EN JUGER.",
+          "center": {
+            "x": 0.828781128513756,
+            "y": 0.5924882973357797
+          },
+          "source": {
+            "x": 0.83,
+            "y": 0.348
+          },
+          "width": 300,
+          "height": 208,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-3",
+      "image": "p13-3.png",
+      "balloons": [
+        {
+          "id": "38a9a390-716e-4e2a-b24d-d0b0322617cf",
+          "type": "dialogue",
+          "text": "CROYEZ-VOUS EN DIEU ?",
+          "center": {
+            "x": 0.539,
+            "y": 0.472
+          },
+          "source": {
+            "x": 0.6656418941808089,
+            "y": 0.3146783583475857
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 30
+        },
+        {
+          "id": "5bcfd1dd-5b9e-4c77-8ce5-4fbdca95b675",
+          "type": "dialogue",
+          "text": "MIEUX QUE VOUS ET JE VIENS EN SON NOM.",
+          "center": {
+            "x": 0.411108931692023,
+            "y": 0.7208893500722303
+          },
+          "source": {
+            "x": 0.2973949487129467,
+            "y": 0.41698810119304597
+          },
+          "width": 240,
+          "height": 182,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-4",
+      "image": "p13-4.png",
+      "balloons": [
+        {
+          "id": "9c5154d0-2f0a-4771-a1db-d9bd21a5b77c",
+          "type": "dialogue",
+          "text": "QUEL LANGAGE PARLENT VOS VOIX ?",
+          "center": {
+            "x": 0.5,
+            "y": 0.18
+          },
+          "source": {
+            "x": 0.331,
+            "y": 0.381
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 30
+        },
+        {
+          "id": "3b4af3f8-2ee5-47b4-9d26-aa08a17dd3e0",
+          "type": "dialogue",
+          "text": "UN LANGAGE MEILLEUR QUE LE VÔTRE...",
+          "center": {
+            "x": 0.594,
+            "y": 0.561
+          },
+          "source": {
+            "x": 0.682,
+            "y": 0.323
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-3-2",
+      "image": "p13-3.png",
+      "balloons": [
+        {
+          "id": "6095be67-9e40-442a-adef-95b773397c66",
+          "type": "dialogue",
+          "text": "VOUS DITES QU'IL EST DU PLAISIR DE DIEU QUE LES ANGLAIS LAISSENT LE ROYAUME\nDE FRANCE, MAIS SI CELA EST, SON SEUL PLAISIR LES PEUT DÉCONFIRE ET LES FAIRE\nALLER DANS LEUR PAYS.",
+          "center": {
+            "x": 0.7493541464189593,
+            "y": 0.6525669098386856
+          },
+          "source": {
+            "x": 0.546329041987515,
+            "y": 0.3259498847531715
+          },
+          "width": 810,
+          "height": 319,
+          "fontSize": 30
+        },
+        {
+          "id": "7eb9aedd-a425-456f-a39e-f07a2dd238dd",
+          "type": "dialogue",
+          "text": "EN MON DIEU, LES GENS D'ARMES BATAILLERONT ET DIEU DONNERA LA VICTOIRE !",
+          "center": {
+            "x": 0.41,
+            "y": 0.704
+          },
+          "source": {
+            "x": 0.317,
+            "y": 0.434
+          },
+          "width": 340,
+          "height": 238,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p13-5",
+      "image": "p13-5.png",
+      "balloons": [
+        {
+          "id": "1220dff0-ce94-47a8-bdce-ec8e18de2a09",
+          "type": "caption",
+          "text": "L'UNIVERSITÉ CONCLUT AINSI SON RAPPORT :",
+          "center": {
+            "x": 0.145,
+            "y": 0.883
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        },
+        {
+          "id": "a59925a4-c882-4302-90d7-5ea9ce9fc463",
+          "type": "dialogue",
+          "text": "C'EST AVEC RAISON QUE DANS LA NÉCESSITÉ\nPRESSANTE DU ROYAUME, NOUS N'AVONS PAS REJETÉ LA PUCELLE.\nNOUS N'AVONS TROUVÉ EN ELLE QUE BIEN, HUMILITÉ, DÉVOTION - SON SIGNE EST ORLÉANS. IL FAUT L'Y CONDUIRE ET\nNE PAS RÉPUDIER L'AIDE DE DIEU -",
+          "center": {
+            "x": 0.675,
+            "y": 0.735
+          },
+          "source": {
+            "x": 0.563,
+            "y": 0.411
+          },
+          "width": 740,
+          "height": 353,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p14-1",
+      "image": "p14-1.png",
+      "balloons": [
+        {
+          "id": "ce2320ad-2488-49ea-9d6a-f99c786eb4e8",
+          "type": "dialogue",
+          "text": "J'AIMERAI CET ÉTENDARD QUARANTE FOIS MIEUX QUE MON ÉPÉE.",
+          "center": {
+            "x": 0.8386625246476899,
+            "y": 0.7199759035019261
+          },
+          "source": {
+            "x": 0.682761598431893,
+            "y": 0.38356360213536134
+          },
+          "width": 320,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "0b360f33-0bca-445b-bb29-2e10537bc6c0",
+          "type": "caption",
+          "text": "RENTRÉE AU PLUS VITE, ELLE SE RENDIT À TOURS OÙ ON LUI CONSTITUA SA \"MAISON MILITAIRE\" FAITE D'UNE ARMURE QUE L'ON FORGEA À SA TAILLE,\nD'UNE ÉPÉE QUE L'ON ALLA CHERCHER À NOTRE-DAME DE FIERBOIS SUR SES INDICATIONS, ET D'UN ÉTENDARD QU'ELLE PORTERA \"AVEC AUDACE\".",
+          "center": {
+            "x": 0.26050583586624365,
+            "y": 0.8619220618026036
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 840,
+          "height": 254,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "il-fut-d-cid-qu-un-important",
+      "markdown": "- IL FUT DÉCIDÉ QU'UN IMPORTANT CONVOI DE VIVRES PARTIRAIT DE BLOIS POUR RAVITAILLER ORLÉANS ASSIÉGÉE.\n- L'ARRIVÉE DES VIVRES ÉTAIT LE PROBLÈME DE CHAQUE JOUR, POUR LES ASSIÉGÉS COMME POUR LES ANGLAIS.\n- UNE PETITE ARMÉE SE REGROUPA ÉGALEMENT À BLOIS.",
+      "fontSize": 21,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p14-2",
+      "image": "p14-2.png",
+      "balloons": [
+        {
+          "id": "4aa55c2b-d5cc-4fea-a2d2-da44528cf37a",
+          "type": "dialogue",
+          "text": "JEANNE, NOUS TE SUIVRONS, LÀ OÙ TU VOUDRAS NOUS MENER.",
+          "center": {
+            "x": 0.6843556436785101,
+            "y": 0.5433289827352882
+          },
+          "source": {
+            "x": 0.843,
+            "y": 0.344
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p14-3",
+      "image": "p14-3.png",
+      "balloons": [
+        {
+          "id": "b0753a01-832b-431e-88f3-8f9ec018695d",
+          "type": "caption",
+          "text": "AVANT DE SE METTRE EN ROUTE, ELLE DICTA UNE LETTRE DESTINÉE AUX ANGLAIS.",
+          "center": {
+            "x": 0.22777139399040258,
+            "y": 0.8660261242143912
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p14-4",
+      "image": "p14-4.png",
+      "balloons": [
+        {
+          "id": "fab07a27-9157-4456-9c6a-ab19757e4217",
+          "type": "dialogue",
+          "text": "PORTEZ-CE MESSAGE AFIN QU'ILS SOIENT AVERTIS DE NOTRE APPROCHE.",
+          "center": {
+            "x": 0.165,
+            "y": 0.853
+          },
+          "source": {
+            "x": 0.19296344957853617,
+            "y": 0.4764227547883734
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p15-1",
+      "image": "p15-1.png",
+      "balloons": [
+        {
+          "id": "47fe3330-5f67-4a83-99c0-66f96b8ab87f",
+          "type": "dialogue",
+          "text": "UN MESSAGER FRANÇAIS APPORTE CETTE LETTRE DE JEANNE D'ARC, MESSIRE.",
+          "center": {
+            "x": 0.25198882618589263,
+            "y": 0.7586580198249453
+          },
+          "source": {
+            "x": 0.286859119908091,
+            "y": 0.3517034451589067
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p15-2",
+      "image": "p15-2.png",
+      "balloons": [
+        {
+          "id": "0b8be638-42d6-4305-a658-96ba7b7ae72e",
+          "type": "dialogue",
+          "text": "HA, HA ! ÉCOUTEZ ÇA :\n\"ARCHERS, HOMMES D'ARMES QUI ÊTES DEVANT ORLÉANS, ALLEZ-VOUS-EN DANS VOTRE PAYS...",
+          "center": {
+            "x": 0.22294181159352572,
+            "y": 0.744410005770125
+          },
+          "source": {
+            "x": 0.20048614209918886,
+            "y": 0.36899179910625335
+          },
+          "width": 330,
+          "height": 254,
+          "fontSize": 30
+        },
+        {
+          "id": "fac988ba-d791-4a38-a636-efec52a870be",
+          "type": "dialogue",
+          "text": "HA ! HA ! HA !",
+          "center": {
+            "x": 0.8306533959493683,
+            "y": 0.5766508757928732
+          },
+          "source": {
+            "x": 0.838095414011102,
+            "y": 0.37172884642127724
+          },
+          "width": 360,
+          "height": 155,
+          "fontSize": 30
+        },
+        {
+          "id": "c1e7ef3e-5225-4896-8a19-e45a3b440712",
+          "type": "dialogue",
+          "text": "... JE SUIS CHEF DE GUERRE ET ENVOYÉE PAR DIEU POUR VOUS BOUTER HORS DE FRANCE.",
+          "center": {
+            "x": 0.5210716941139915,
+            "y": 0.7504931407121747
+          },
+          "source": {
+            "x": 0.6101224616383821,
+            "y": 0.3439311596082957
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p15-3",
+      "image": "p15-3.png",
+      "balloons": [
+        {
+          "id": "2285f929-1306-484b-a5f9-096d5c177f24",
+          "type": "caption",
+          "text": "LE MATIN, ON CHARGEA LES SACS DE BLÉ SUR DES CHARRETTES, ON RASSEMBLA LES DERNIERS BESTIAUX.",
+          "center": {
+            "x": 0.519,
+            "y": 0.13
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p15-4",
+      "image": "p15-4.png",
+      "balloons": [
+        {
+          "id": "d7288bd4-2ff2-473e-8882-d4a3a29aaccd",
+          "type": "caption",
+          "text": "LE 27 AVRIL 1429, LA PETITE ARMÉE SE MIT EN MARCHE.",
+          "center": {
+            "x": 0.457,
+            "y": 0.891
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 430,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "jeanne-ref-p18-full",
+      "image": "jeanne-ref-p18-full.png",
+      "balloons": [
+        {
+          "id": "6d245de0-4e85-4605-9ee8-5eab99e31ad8",
+          "type": "caption",
+          "text": "ELLE N'A PAS ENCORE DIX-HUIT ANS, ELLE EST DEVENUE JEANNE LA PUCELLE...",
+          "center": {
+            "x": 0.49116324568022957,
+            "y": 0.888243120994122
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p16-3",
+      "image": "p16-3.png",
+      "balloons": [
+        {
+          "id": "f99d1036-1f05-40df-9cea-aa7616a10ff8",
+          "type": "caption",
+          "text": "CEPENDANT, À ORLÉANS OÙ DUNOIS COMMANDE LA VILLE ASSIÉGÉE DEPUIS SEPT MOIS :",
+          "center": {
+            "x": 0.19011277559271267,
+            "y": 0.8828756055517735
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 190,
+          "fontSize": 30
+        },
+        {
+          "id": "3884d5bc-f281-40b9-ad16-7024d77f681b",
+          "type": "dialogue",
+          "text": "JEANNE D'ARC APPROCHE À LA TÊTE D'UNE PETITE ARMÉE ET D'UN CONVOI DE VIVRES.",
+          "center": {
+            "x": 0.675,
+            "y": 0.72
+          },
+          "source": {
+            "x": 0.42,
+            "y": 0.267
+          },
+          "width": 300,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p16-3-2",
+      "image": "p16-3.png",
+      "balloons": [
+        {
+          "id": "4ea48b91-ee59-4a7a-b3c8-69c6e740bfab",
+          "type": "dialogue",
+          "text": "IL FAUT ABSOLUMENT DÉTOURNER L'ATTENTION DES ANGLAIS.\nVOUS ALLEZ MENER UNE ATTAQUE CONTRE LA BASTILLE SAINT-LOUP.\n  -\nOCCUPEZ-LES LE PLUS POSSIBLE, JE VAIS AU DEVANT DE JEANNE.",
+          "center": {
+            "x": 0.621,
+            "y": 0.786
+          },
+          "source": {
+            "x": 0.445,
+            "y": 0.318
+          },
+          "width": 480,
+          "height": 317,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p16-4",
+      "image": "p16-4.png",
+      "balloons": [
+        {
+          "id": "b8a54893-4655-4fce-8ccb-9eac27599605",
+          "type": "dialogue",
+          "text": "ÊTES-VOUS LE BÂTARD D'ORLÉANS ?\n",
+          "center": {
+            "x": 0.467,
+            "y": 0.136
+          },
+          "source": {
+            "x": 0.645,
+            "y": 0.331
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        },
+        {
+          "id": "c1a65254-a421-443b-bb55-e3f8d7901d4e",
+          "type": "dialogue",
+          "text": "OUI, JE LE SUIS ET JE ME RÉJOUIS DE VOTRE ARRIVÉE.",
+          "center": {
+            "x": 0.536,
+            "y": 0.59
+          },
+          "source": {
+            "x": 0.305,
+            "y": 0.316
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p17-1",
+      "image": "p17-1.png",
+      "balloons": [
+        {
+          "id": "b1369009-ee18-41a8-8f7a-60f03a6d6289",
+          "type": "dialogue",
+          "text": "EST-CE VOUS QUI AVEZ DONNÉ LE CONSEIL QUE JE VIENNE DE CE CÔTÉ DU FLEUVE ET QUE JE N'AILLE PAS TOUT DROIT LÀ OÙ SONT TALBOT ET LES ANGLAIS ?",
+          "center": {
+            "x": 0.43,
+            "y": 0.142
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 390,
+          "height": 287,
+          "fontSize": 30
+        },
+        {
+          "id": "028fe2b4-c920-43bf-92e9-8be23555a0e8",
+          "type": "dialogue",
+          "text": "NOUS AVONS CRU FAIRE CE QU'IL Y AVAIT DE PLUS SAGE ET DE PLUS SÛR.",
+          "center": {
+            "x": 0.3694103551253177,
+            "y": 0.7750225278750996
+          },
+          "source": {
+            "x": 0.2531262813002299,
+            "y": 0.30232126882555127
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p17-1-2",
+      "image": "p17-1.png",
+      "balloons": [
+        {
+          "id": "65863f33-39ee-4704-a665-781dd59e403e",
+          "type": "dialogue",
+          "text": "JE VOUS APPORTE UN MEILLEUR SECOURS QU'IL NE VOUS EN EST VENU D'AUCUN SOLDAT, C'EST LE SECOURS DU ROI DES CIEUX.",
+          "center": {
+            "x": 0.4269901622425426,
+            "y": 0.14936135692373473
+          },
+          "source": {
+            "x": 0.6273788379139877,
+            "y": 0.2834160994267236
+          },
+          "width": 360,
+          "height": 254,
+          "fontSize": 30
+        },
+        {
+          "id": "528eda5e-ae8e-4317-8130-a7c40bd0c04d",
+          "type": "dialogue",
+          "text": "ACCÉPTEZ D'ENTRER DANS ORLÉANS AVEC L'ARMÉE ET LES VIVRES.",
+          "center": {
+            "x": 0.389,
+            "y": 0.796
+          },
+          "source": {
+            "x": 0.273,
+            "y": 0.356
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p17-2",
+      "image": "p17-2.png",
+      "balloons": [
+        {
+          "id": "057fc59c-6d85-4ac0-a276-31f578fdb561",
+          "type": "caption",
+          "text": "AUSSITÔT, LE VENT CHANGEA DE SENS ; LE CONVOI ALLAIT ARRIVER SANS EMPÊCHEMENTS JUSQU'À ORLÉANS.",
+          "center": {
+            "x": 0.725,
+            "y": 0.795
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 660,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p17-2-2",
+      "image": "p17-2.png",
+      "balloons": [
+        {
+          "id": "fe7eacd7-6001-4b2c-88bb-984ca025b2b8",
+          "type": "dialogue",
+          "text": "IL ME FAUDRAIT QUITTER MES COMPAGNONS QUI RETOURNENT À BLOIS POUR CHERCHER LES FORCES ROYALES.",
+          "center": {
+            "x": 0.3283134715979179,
+            "y": 0.7181914679986383
+          },
+          "source": {
+            "x": 0.18004494991028708,
+            "y": 0.4390229925465761
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        },
+        {
+          "id": "b79e9435-24de-4716-9e45-96a2f56957f5",
+          "type": "dialogue",
+          "text": "NOUS IRONS À BLOIS SANS TOI, JEANNE. TA PLACE EST ICI...",
+          "center": {
+            "x": 0.633,
+            "y": 0.759
+          },
+          "source": {
+            "x": 0.842,
+            "y": 0.662
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p18-1",
+      "image": "p18-1.png",
+      "balloons": [
+        {
+          "id": "2f8149c7-fd74-4106-8a47-c189f135cf5b",
+          "type": "dialogue",
+          "text": "VOYEZ, LA FOULE SE PRESSE DÉJÀ POUR VOUS ACCLAMER.",
+          "center": {
+            "x": 0.397110207005551,
+            "y": 0.7343899255280286
+          },
+          "source": {
+            "x": 0.311,
+            "y": 0.421
+          },
+          "width": 250,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p18-2",
+      "image": "p18-2.png",
+      "balloons": [
+        {
+          "id": "93d52c84-a258-4a86-909c-e0f9757671b0",
+          "type": "caption",
+          "text": "LES ORLÉANAIS SE SENTAIENT RÉCONFORTÉS ET COMME \"DÉSASSIÉGÉS\".",
+          "center": {
+            "x": 0.5445416464189593,
+            "y": 0.8080863941285865
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p19-1",
+      "image": "p19-1.png",
+      "balloons": [
+        {
+          "id": "48d08241-b195-4e6f-9a1e-45dbb0190a3e",
+          "type": "caption",
+          "text": "DURANT SON SÉJOUR À ORLÉANS, JEANNE LOGEA CHEZ JACQUES BOUCHER, TRÉSORIER DE LA VILLE.",
+          "center": {
+            "x": 0.4126000655324836,
+            "y": 0.8560595566914768
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p19-2",
+      "image": "p19-2.png",
+      "balloons": [
+        {
+          "id": "3234e390-8248-4bab-84d2-c293b52b227b",
+          "type": "dialogue",
+          "text": "ILS SONT FORTS ET BIEN FORTIFIÉS, CE SERA UNE GRANDE CHOSE QUE DE LES METTRE DEHORS.",
+          "center": {
+            "x": 0.338,
+            "y": 0.743
+          },
+          "source": {
+            "x": 0.346,
+            "y": 0.421
+          },
+          "width": 340,
+          "height": 238,
+          "fontSize": 30
+        },
+        {
+          "id": "a8ab909e-6b24-4997-bbf7-87b468ab49c1",
+          "type": "dialogue",
+          "text": "AVANT TOUTE CHOSE, NOUS DEVONS RENDRE GRÂCE À DIEU, ET IMPLORER SON AIDE.",
+          "center": {
+            "x": 0.623,
+            "y": 0.749
+          },
+          "source": {
+            "x": 0.784,
+            "y": 0.471
+          },
+          "width": 290,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p19-3",
+      "image": "p19-3.png",
+      "balloons": [
+        {
+          "id": "8a2b1e72-2786-4df6-b955-59fec74825f7",
+          "type": "caption",
+          "text": "AINSI, UNE PROCESSION POUR LA DÉLIVRANCE D'ORLÉANS FUT MENÉE DEPUIS L'ÉGLISE SAINTE-CROIX.",
+          "center": {
+            "x": 0.775,
+            "y": 0.847
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.425
+          },
+          "width": 510,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p19-4-2",
+      "image": "p19-4.png",
+      "balloons": [
+        {
+          "id": "aa830b5a-f277-42ea-b08d-4d9a2ecaab82",
+          "type": "caption",
+          "text": "ORLÉANS",
+          "center": {
+            "x": 0.5102043334376869,
+            "y": 0.40209261530390705
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "11e3ed66-5693-4417-826c-46e2d033aa87",
+          "type": "caption",
+          "text": "Bastille Saint-Loup",
+          "center": {
+            "x": 0.848831614809173,
+            "y": 0.23757797841184577
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        },
+        {
+          "id": "e8a50729-ee26-4720-9ab4-d6f40304f3ad",
+          "type": "caption",
+          "text": "Bastille Saint-Laurent",
+          "center": {
+            "x": 0.27025014703924005,
+            "y": 0.5161363831539336
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "280fde57-b317-4e07-96e7-39d42fe4e3fc",
+          "type": "caption",
+          "text": "Bastille de Paris",
+          "center": {
+            "x": 0.46366152238617675,
+            "y": 0.03306395430367254
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "033e5bd4-95ac-4abb-ad8c-dde49d3c4c45",
+          "type": "caption",
+          "text": "Bastille de Rouen",
+          "center": {
+            "x": 0.28511744595030275,
+            "y": 0.07430895165859956
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "6d7ba181-f089-4485-9d1f-e3d3e0f929aa",
+          "type": "caption",
+          "text": "Bastille Charlemagne",
+          "center": {
+            "x": 0.15131181963322837,
+            "y": 0.6768693051150705
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "5bfe2b3e-c130-4574-98c1-5d042dd44ed9",
+          "type": "caption",
+          "text": "Bastille du Champ Saint-Privé",
+          "center": {
+            "x": 0.12739577589993273,
+            "y": 0.8831792408601638
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        },
+        {
+          "id": "a35f6433-492a-435f-9061-d004a8d51cb5",
+          "type": "caption",
+          "text": "Les Tourelles",
+          "center": {
+            "x": 0.426114242042651,
+            "y": 0.8412304622637985
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "a59e4948-9c3d-4135-969e-2d4b5832f0c0",
+          "type": "caption",
+          "text": "Bastille Saint-Jean-le-Blanc",
+          "center": {
+            "x": 0.6626818295711535,
+            "y": 0.8399526792682319
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "oui-il-fallait-bien-une-aide-mi",
+      "markdown": "OUI, IL FALLAIT BIEN UNE AIDE MIRACULEUSE POUR \"BOUTER LES ANGLAIS HORS DE FRANCE\". ORLÉANS ÉTAIT LE DERNIER OBSTACLE QUI SE PRÉSENTAIT À EUX, AVANT D'ENVAHIR LE SUD DU PAYS.",
+      "fontSize": 26,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p20-1",
+      "image": "p20-1.png",
+      "balloons": [
+        {
+          "id": "6d2bc085-fe71-486e-8b46-a97c7841cd83",
+          "type": "dialogue",
+          "text": "C'EST AU FORT DES TOURELLES QUE GLANSDALE A INSTALLÉ SON QUARTIER GÉNÉRAL.",
+          "center": {
+            "x": 0.5222417047674006,
+            "y": 0.10861103300283115
+          },
+          "source": {
+            "x": 0.5886023489482095,
+            "y": 0.363887288238493
+          },
+          "width": 320,
+          "height": 227,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p20-2",
+      "image": "p20-2.png",
+      "balloons": [
+        {
+          "id": "ec8f5bb7-3646-4e06-a7c7-6f5c79dee846",
+          "type": "dialogue",
+          "text": "RENDEZ-VOUS DE PAR DIEU !",
+          "center": {
+            "x": 0.45721975810219795,
+            "y": 0.12582515315219014
+          },
+          "source": {
+            "x": 0.3911124416515588,
+            "y": 0.3664164527949821
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p20-3",
+      "image": "p20-3.png",
+      "balloons": [
+        {
+          "id": "d3c4c4d2-4f7d-4a9a-9c86-5ed8573adeb0",
+          "type": "dialogue",
+          "text": "VA-T'EN, VACHÈRE, NOUS TE FERONS BRÛLER SI TU ES PRISE.",
+          "center": {
+            "x": 0.514,
+            "y": 0.772
+          },
+          "source": {
+            "x": 0.497,
+            "y": 0.36
+          },
+          "width": 330,
+          "height": 233,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p20-5",
+      "image": "p20-5.png",
+      "balloons": [
+        {
+          "id": "92f8fd43-5983-4700-92be-0bc1c184f620",
+          "type": "dialogue",
+          "text": "FILLE DE RIEN...",
+          "center": {
+            "x": 0.4774548313560668,
+            "y": 0.7574711888117694
+          },
+          "source": {
+            "x": 0.5015339098478618,
+            "y": 0.43116988892509633
+          },
+          "width": 360,
+          "height": 231,
+          "fontSize": 43
+        }
+      ]
+    },
+    {
+      "id": "p20-6",
+      "image": "p20-6.png",
+      "balloons": [
+        {
+          "id": "4611e921-b344-4d71-9dca-c0f31d8635a4",
+          "type": "dialogue",
+          "text": "IL NE RESTERA PLUS UN \"GODON\" AUTOUR D'ORLÉANS PAR MON MARTIN !\n.\n.\n* GODON : ANGLAIS",
+          "center": {
+            "x": 0.4128210624439294,
+            "y": 0.7648481424556655
+          },
+          "source": {
+            "x": 0.5426957709937574,
+            "y": 0.3271740255649741
+          },
+          "width": 410,
+          "height": 278,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p21-1",
+      "image": "p21-1.png",
+      "balloons": []
+    },
+    {
+      "id": "p22-1",
+      "image": "p22-1.png",
+      "balloons": []
+    },
+    {
+      "id": "p22-2",
+      "image": "p22-2.png",
+      "balloons": [
+        {
+          "id": "1a75c61a-834f-48f3-835d-f8a8030d1c13",
+          "type": "caption",
+          "text": "DIRIGEANT LES COMBATS, JEANNE MENA RAPIDEMENT LES GUERRIERS DU ROI À LA VICTOIRE.",
+          "center": {
+            "x": 0.3328176982094797,
+            "y": 0.8473864999055609
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p22-3",
+      "image": "p22-3.png",
+      "balloons": []
+    },
+    {
+      "id": "p22-4",
+      "image": "p22-4.png",
+      "balloons": []
+    },
+    {
+      "id": "p22-5",
+      "image": "p22-5.png",
+      "balloons": [
+        {
+          "id": "4303a1dc-184d-4e1a-8e02-360c9b16b6c5",
+          "type": "dialogue",
+          "text": "TOUS CES SOLDATS SONT MORTS SANS CONFESSION.",
+          "center": {
+            "x": 0.5337985509845058,
+            "y": 0.6515921123638416
+          },
+          "source": {
+            "x": 0.7060634485272129,
+            "y": 0.3045394848814426
+          },
+          "width": 250,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p23-1",
+      "image": "p23-1.png",
+      "balloons": [
+        {
+          "id": "1855a3ea-d3df-47a7-80b0-a88e18ebb797",
+          "type": "caption",
+          "text": "LE LENDEMAIN DE CETTE PREMIÈRE VICTOIRE, ESPÉRANT UNE CAPITULATION DES ANGLAIS, JEANNE DICTA UN DERNIER MESSAGE.",
+          "center": {
+            "x": 0.2828358554383784,
+            "y": 0.8751379563172489
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 440,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p23-2",
+      "image": "p23-2.png",
+      "balloons": []
+    },
+    {
+      "id": "p23-3",
+      "image": "p23-3.png",
+      "balloons": [
+        {
+          "id": "6f980bcd-198e-4b6b-9837-d9748a6556d6",
+          "type": "caption",
+          "text": "Vous, Anglais, n'avez aucun droit sur le royaume de France ; quittez vos forteresses et retournez dans votre pays.\n.\nC'est le dernier message, je n'écrirai pas davantage.\n.\nJésus Maria,\nJeanne.\n",
+          "center": {
+            "x": 0.497,
+            "y": 0.451
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 900,
+          "height": 478,
+          "fontSize": 43
+        }
+      ]
+    },
+    {
+      "id": "p23-4",
+      "image": "p23-4.png",
+      "balloons": [
+        {
+          "id": "bfc960e4-87ac-4dad-8b0b-75ddd294197a",
+          "type": "dialogue",
+          "text": "HA ! HA !.. CE SONT DES NOUVELLES DE LA PROSTITUÉE DES ARMAGNACS.",
+          "center": {
+            "x": 0.447,
+            "y": 0.739
+          },
+          "source": {
+            "x": 0.385,
+            "y": 0.349
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "id": "p23-5-2",
+      "image": "p23-5.png",
+      "balloons": [
+        {
+          "id": "90ac1794-34af-4477-af3f-e4026e44ce22",
+          "type": "dialogue",
+          "text": "ILS NE SE RENDRONT PAS !",
+          "center": {
+            "x": 0.292,
+            "y": 0.684
+          },
+          "source": {
+            "x": 0.254,
+            "y": 0.32
+          },
+          "width": 240,
+          "height": 182,
+          "fontSize": 30
+        },
+        {
+          "id": "9fd5a033-37aa-474c-9a12-c9be8b253f0f",
+          "type": "dialogue",
+          "text": "DEMAIN, NOUS ATTAQUERONS SAINT-JEAN LE BLANC.",
+          "center": {
+            "x": 0.625,
+            "y": 0.7
+          },
+          "source": {
+            "x": 0.582,
+            "y": 0.432
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p23-6",
+      "image": "p23-6.png",
+      "balloons": []
+    },
+    {
+      "id": "p23-7",
+      "image": "p23-7.png",
+      "balloons": [
+        {
+          "id": "987c944c-042b-46bb-abba-9971d9aad8e5",
+          "type": "caption",
+          "text": "LA NUIT FUT EMPLOYÉE À PLACER DES BOMBARDES AUTOUR DU COUVENT ET DE LA BASTILLE DES TOURELLES.",
+          "center": {
+            "x": 0.48481049606104215,
+            "y": 0.8024159946097071
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 202,
+          "fontSize": 33
+        }
+      ]
+    },
+    {
+      "id": "p24-1",
+      "image": "p24-1.png",
+      "balloons": [
+        {
+          "id": "8159ac2a-5b50-44a3-9a62-e2b3944c691f",
+          "type": "caption",
+          "text": "AU MATIN DU 6 MAI FUT DÉCIDÉE L'ATTAQUE DU COUVENT DES AUGUSTINS.\n\n\n",
+          "center": {
+            "x": 0.725,
+            "y": 0.81
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 370,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p24-2",
+      "image": "p24-2.png",
+      "balloons": [
+        {
+          "id": "e3407e3c-59b5-41cc-8ae6-048d69dfaee2",
+          "type": "dialogue",
+          "text": "REVOILÀ CETTE MAUDITE SORCIÈRE.",
+          "center": {
+            "x": 0.493,
+            "y": 0.752
+          },
+          "source": {
+            "x": 0.364,
+            "y": 0.359
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p24-3",
+      "image": "p24-3.png",
+      "balloons": [
+        {
+          "id": "7901491a-e800-42f9-8403-c638a26addb7",
+          "type": "dialogue",
+          "text": "SUS AUX GODONS !",
+          "center": {
+            "x": 0.551,
+            "y": 0.466
+          },
+          "source": {
+            "x": 0.408,
+            "y": 0.35
+          },
+          "width": 150,
+          "height": 132,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p24-5",
+      "image": "p24-5.png",
+      "balloons": [
+        {
+          "id": "e6e93231-a10b-4eab-a6bd-a5b7432208c6",
+          "type": "caption",
+          "text": "LE SOIR, LA FORTERESSE TOMBAIT AUX MAINS DES FRANÇAIS.",
+          "center": {
+            "x": 0.6173711165286707,
+            "y": 0.8652351643707242
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p24-6",
+      "image": "p24-6.png",
+      "balloons": [
+        {
+          "id": "a6964b27-5eb5-4c4b-baa2-d95ffac2fea9",
+          "type": "dialogue",
+          "text": "LEVEZ-VOUS DEMAIN DE BON MATIN CAR J'AURAI BEAUCOUP À FAIRE, PLUS QUE JE N'AI JAMAIS EU.",
+          "center": {
+            "x": 0.3406756460381467,
+            "y": 0.6547892373679929
+          },
+          "source": {
+            "x": 0.3122855008504037,
+            "y": 0.2570158160834966
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p24-7",
+      "image": "p24-7.png",
+      "balloons": []
+    },
+    {
+      "id": "p25-1",
+      "image": "p25-1.png",
+      "balloons": [
+        {
+          "id": "7d26ead1-5bdb-412e-8782-4dedcaa81243",
+          "type": "caption",
+          "text": "EN EFFET, LE LENDEMAIN, 7 MAI, ÉTAIT DONNÉ L'ASSAUT CONTRE LA BASTILLE DES TOURELLES, DERNIER REFUGE DES ANGLAIS.",
+          "center": {
+            "x": 0.5373985984108665,
+            "y": 0.8044370139240584
+          },
+          "source": {
+            "x": 0.5001429872649709,
+            "y": 0.42427531616340664
+          },
+          "width": 400,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p25-2",
+      "image": "p25-2.png",
+      "balloons": [
+        {
+          "id": "c64d3ab9-542b-4313-b868-7c81457a1e64",
+          "type": "dialogue",
+          "text": "À L'AIDE, LA PUCELLE EST BLESSÉE !",
+          "center": {
+            "x": 0.219,
+            "y": 0.653
+          },
+          "source": {
+            "x": 0.235,
+            "y": 0.359
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p25-3",
+      "image": "p25-3.png",
+      "balloons": [
+        {
+          "id": "14e51b6e-a88d-4b73-a2aa-3c52361b4e7e",
+          "type": "dialogue",
+          "text": "DONNEZ-MOI MON ÉTENDARD.",
+          "center": {
+            "x": 0.502,
+            "y": 0.813
+          },
+          "source": {
+            "x": 0.486,
+            "y": 0.421
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p25-5",
+      "image": "p25-5.png",
+      "balloons": [
+        {
+          "id": "207b7167-e2a3-4926-98e9-ddb6248a44e7",
+          "type": "dialogue",
+          "text": "TOUT EST À VOUS, ENTREZ-Y !",
+          "center": {
+            "x": 0.589,
+            "y": 0.148
+          },
+          "source": {
+            "x": 0.35,
+            "y": 0.355
+          },
+          "width": 250,
+          "height": 188,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p25-6",
+      "image": "p25-6.png",
+      "balloons": [
+        {
+          "id": "cf02405b-fd7d-4226-8917-194ccda2bcc8",
+          "type": "caption",
+          "text": "SOUS CETTE NOUVELLE IMPULSION, LA PLACE TOMBA RAPIDEMENT AUX MAINS DES ORLÉANAIS.\nCOMME BEAUCOUP D'AUTRES ENNEMIS, GLANSDALE, COMMANDANT DU FORT, SE NOYA, ENTRAÎNÉ PAR L'ÉNORME POIDS DE SON ARMURE.",
+          "center": {
+            "x": 0.6777441216427744,
+            "y": 0.8013997041254317
+          },
+          "source": {
+            "x": 0.5011894189569939,
+            "y": 0.42357084981693344
+          },
+          "width": 580,
+          "height": 287,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p26-1",
+      "image": "p26-1.png",
+      "balloons": [
+        {
+          "id": "1c3af593-a578-48e4-9b9e-d42807dc946a",
+          "type": "caption",
+          "text": "LES ORLÉANAIS ACCLAMÈRENT LE RETOUR DE JEANNE ET DE L'ARMÉE VICTORIEUSE.",
+          "center": {
+            "x": 0.651297318307977,
+            "y": 0.7995634442612165
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 430,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p26-3",
+      "image": "p26-3.png",
+      "balloons": [
+        {
+          "id": "5a807816-4b2b-459c-a5d5-17e2c5f5836b",
+          "type": "caption",
+          "text": "LE JOUR SE LEVA SUR UN SPECTACLE DE DÉSOLATION.\n-\nLES ANGLAIS SURVIVANTS SE RANGÈRENT EN BATAILLE SUR LA RIVE DROITE DU FLEUVE.",
+          "center": {
+            "x": 0.36565359015213816,
+            "y": 0.8633699111857398
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 630,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p26-4",
+      "image": "p26-4.png",
+      "balloons": [
+        {
+          "id": "9613a2ea-153c-462d-9b28-7e88b6aa2d7b",
+          "type": "caption",
+          "text": "RANGEONS-NOUS FACE À EUX, ILS N'ATTAQUERONT PAS.",
+          "center": {
+            "x": 0.45343696557734003,
+            "y": 0.0631504797454088
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 430,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p26-5",
+      "image": "p26-5.png",
+      "balloons": [
+        {
+          "id": "eae66a06-6e2d-4462-a37a-422b188b9593",
+          "type": "caption",
+          "text": "LES DEUX ARMÉES RESTÈRENT LONG TEMPS FACE À FACE SÉPARÉES PAR LA LOIRE...\nPUIS LES ENNEMIS TOURNÈRENT LE DOS ET PARTIRENT.",
+          "center": {
+            "x": 0.5673877040735272,
+            "y": 0.7966416374960563
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-2",
+      "image": "p27-2.png",
+      "balloons": [
+        {
+          "id": "507e30d5-c8e4-4632-b270-1f9d0f6ac1de",
+          "type": "caption",
+          "text": "AUSSITÔT LA JOIE ÉCLATA. LES ANGLAIS, APRÈS SEPT MOIS DE SIÈGE, PARTAIENT VAINCUS.",
+          "center": {
+            "x": 0.6430363267232356,
+            "y": 0.8445339819880779
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-1-framed-v1",
+      "image": "p27-1-framed-v1.png",
+      "balloons": [
+        {
+          "id": "12554d83-29d9-46f9-9843-bf233c8fb017",
+          "type": "caption",
+          "text": "CEPENDANT, JEANNE QUITTAIT ORLÉANS EN DÉLIRE POUR REJOINDRE LE ROI À LOCHES.",
+          "center": {
+            "x": 0.479,
+            "y": 0.094
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 590,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-1-v2",
+      "image": "p27-1-v2.png",
+      "balloons": []
+    },
+    {
+      "id": "p27-3-v2",
+      "image": "p27-3-v2.png",
+      "balloons": [
+        {
+          "id": "39677638-80e8-43ff-ab33-32b2e067e8a1",
+          "type": "dialogue",
+          "text": "NOBLE DAUPHIN, VENEZ LE PLUS TÔT POSSIBLE À REIMS. JE DURERAI UN AN, GUÈRE PLUS, ET IL Y A BEAUCOUP DE BESOGNE À FAIRE.",
+          "center": {
+            "x": 0.4564462689121374,
+            "y": 0.7460006678193078
+          },
+          "source": {
+            "x": 0.38477537164277437,
+            "y": 0.4104399888852451
+          },
+          "width": 490,
+          "height": 323,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-4-v2",
+      "image": "p27-4-v2.png",
+      "balloons": [
+        {
+          "id": "f9ed4525-3d67-4073-b624-d7ce8deb5a0a",
+          "type": "dialogue",
+          "text": "SIRE, LES ANGLAIS SONT ENCORE MAÎTRES DE NOMBREUX FIEFS. CE SERAIT FOLIE DE PARTIR MAINTENANT.",
+          "center": {
+            "x": 0.23941865035791715,
+            "y": 0.601526739625191
+          },
+          "source": {
+            "x": 0.2010256023498243,
+            "y": 0.28942141396079635
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-5-v2",
+      "image": "p27-5-v2.png",
+      "balloons": [
+        {
+          "id": "3da3b31a-46bc-4f3e-9c85-663ddd3473e8",
+          "type": "dialogue",
+          "text": "DIEU NOUS AIDERA !\nNOUS CHASSERONS LES ANGLAIS DES RIVES DE LA LOIRE JUSQU'AU DERNIER.",
+          "center": {
+            "x": 0.436,
+            "y": 0.719
+          },
+          "source": {
+            "x": 0.46,
+            "y": 0.346
+          },
+          "width": 370,
+          "height": 255,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-4-jeanne-speaks-v1",
+      "image": "p27-4-jeanne-speaks-v1.png",
+      "balloons": [
+        {
+          "id": "20e21aa5-fc00-43c1-b127-0bc02f1de193",
+          "type": "dialogue",
+          "text": "À REIMS, VOUS SEREZ LE ROI !",
+          "center": {
+            "x": 0.33,
+            "y": 0.197
+          },
+          "source": {
+            "x": 0.5221814242276278,
+            "y": 0.3857784129354576
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 41
+        }
+      ]
+    },
+    {
+      "id": "p27-5-counselors-warn-v1",
+      "image": "p27-5-counselors-warn-v1.png",
+      "balloons": [
+        {
+          "id": "449bcaca-d2db-4b6b-acf0-1a410b65c720",
+          "type": "dialogue",
+          "text": "DUC D'ALENÇON, VOUS DIRIGEREZ LES OPÉRATIONS CONTRE L'ARMÉE ANGLAISE.",
+          "center": {
+            "x": 0.67,
+            "y": 0.799
+          },
+          "source": {
+            "x": 0.675,
+            "y": 0.425
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p27-6-map-v1",
+      "image": "p27-6-map-v1.png",
+      "balloons": [
+        {
+          "id": "235e6f23-4d42-4ef8-8d24-6b873c215a5f",
+          "type": "caption",
+          "text": "EN EFFET, ORLÉANS ÉTAIT LIBÉRÉE, MAIS L'ENNEMI OCCUPAIT ENCORE DES PLACES IMPORTANTES.",
+          "center": {
+            "x": 0.731,
+            "y": 0.844
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 420,
+          "height": 198,
+          "fontSize": 32
+        },
+        {
+          "id": "2722ea49-4c35-48b5-a7b4-d3f145d1d977",
+          "type": "caption",
+          "text": "Orléans",
+          "center": {
+            "x": 0.4706273786188883,
+            "y": 0.44849898724449555
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "2a14b369-147c-475a-b7cd-1fae9e87b0c1",
+          "type": "caption",
+          "text": "Patay",
+          "center": {
+            "x": 0.4238469612085078,
+            "y": 0.2626113272169318
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "5baef1a1-6ea2-4800-88e7-7b1b7ab2552c",
+          "type": "caption",
+          "text": "Jargeau",
+          "center": {
+            "x": 0.7119800987426174,
+            "y": 0.32505522157383265
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "3a2c8274-3812-4397-b932-697b2980a2bb",
+          "type": "caption",
+          "text": "Meung",
+          "center": {
+            "x": 0.2890783976139635,
+            "y": 0.46128869019203306
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "dc43a07a-74c9-444c-91e8-6e24e647c88d",
+          "type": "caption",
+          "text": "Beaugency",
+          "center": {
+            "x": 0.14314400522332443,
+            "y": 0.5437665313817996
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p28-1-from-empty2-v3",
+      "image": "p28-1-from-empty2-v3.png",
+      "balloons": [
+        {
+          "id": "fcd9a88c-39ab-415e-b130-c8232a29681b",
+          "type": "caption",
+          "text": "LE 11 JUIN, L'ARMÉE ROYALE PRENAIT D'ASSAUT JARGEAU.",
+          "center": {
+            "x": 0.809,
+            "y": 0.694
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 510,
+          "height": 215,
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "id": "p28-2-from-empty2-v1",
+      "image": "p28-2-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "216fb508-f2ee-4f8e-b972-c24ed5feb162",
+          "type": "caption",
+          "text": "LE 15, ELLE SE RENDIT MAÎTRE DU PONT DE MEUNG.",
+          "center": {
+            "x": 0.6330465289394251,
+            "y": 0.6907055891079552
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 440,
+          "height": 129,
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "id": "p28-3-from-empty2-v1",
+      "image": "p28-3-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "3aa1f984-9183-4956-aa77-ba4f06774cc5",
+          "type": "caption",
+          "text": "LE 17, BEAUGENCY CAPITULA APRÈS UNE JOURNÉE DE SIÈGE.",
+          "center": {
+            "x": 0.832,
+            "y": 0.825
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 450,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p28-4-from-empty2-v1",
+      "image": "p28-4-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "c9c79e3b-6b28-4879-8271-d6c0bed162f6",
+          "type": "caption",
+          "text": "PUIS CE FUT L'ÉCRASANTE VICTOIRE DE PATAY ; DEUX MILLE ANGLAIS Y PÉRIRENT, LEUR CHEF TALBOT FUT FAIT PRISONNIER.",
+          "center": {
+            "x": 0.6772566799912156,
+            "y": 0.8742141104200567
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 470,
+          "height": 190,
+          "fontSize": 30
+        },
+        {
+          "id": "9efe42b9-88b4-452c-94c9-3e703f982148",
+          "type": "dialogue",
+          "text": "AGISSEZ ET DIEU AGIRA !",
+          "center": {
+            "x": 0.7613192407343377,
+            "y": 0.13483706168844645
+          },
+          "source": {
+            "x": 0.4818921613921389,
+            "y": 0.2769719284981901
+          },
+          "width": 190,
+          "height": 154,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p28-5-from-empty2-v1",
+      "image": "p28-5-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "bfa40e02-5cea-45be-b44f-630b6799e238",
+          "type": "caption",
+          "text": "ET DE RETOUR AUPRÈS DU ROI.",
+          "center": {
+            "x": 0.607,
+            "y": 0.878
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 270,
+          "height": 125,
+          "fontSize": 30
+        },
+        {
+          "id": "b061a9d2-f16b-4df5-9ec3-33b89e16057c",
+          "type": "dialogue",
+          "text": "SIRE, IL NE FAUT PLUS TARDER MAINTENANT.",
+          "center": {
+            "x": 0.451,
+            "y": 0.115
+          },
+          "source": {
+            "x": 0.40911631606982657,
+            "y": 0.36876082547032746
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "gr-ce-l-empressement-de-jeanne",
+      "markdown": "GRÂCE À L'EMPRESSEMENT DE JEANNE ET MALGRÉ LE SCEPTICISME DE SES CONSEILLERS, LE ROI FIT RÉUNIR UNE PETITE ARMÉE POUR L'ESCORTER JUSQU'À REIMS.\nJEANNE OUVRIT LA MARCHE À L'AVANT-GARDE.",
+      "fontSize": 26,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p28-u-from-empty2-v1",
+      "image": "p28-u-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "d05a0479-8547-449c-97a3-73b80995fdfb",
+          "type": "caption",
+          "text": "LE 29 JUIN 1429, LE DAUPHIN SE MIT EN ROUTE POUR REIMS.",
+          "center": {
+            "x": 0.8229188325872832,
+            "y": 0.8510589872029839
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p29-1-from-empty2-v1",
+      "image": "p29-1-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "9f9c9c54-d2eb-45dc-a700-564143708f8e",
+          "type": "caption",
+          "text": "LA ROUTE DU SACRE.",
+          "center": {
+            "x": 0.282,
+            "y": 0.461
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 155,
+          "fontSize": 44
+        },
+        {
+          "id": "ca2bc197-1f36-44d4-a8b3-3ae4980d99cf",
+          "type": "caption",
+          "text": "Gien",
+          "center": {
+            "x": 0.4953853114369954,
+            "y": 0.8752996735365053
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "249b96fd-8e57-4b68-b695-ba9e49538369",
+          "type": "caption",
+          "text": "Auxerre",
+          "center": {
+            "x": 0.6308106052818481,
+            "y": 0.7353759129977251
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "d7585409-0408-4291-ab6b-a45628077acc",
+          "type": "caption",
+          "text": "Reims",
+          "center": {
+            "x": 0.39644210304369765,
+            "y": 0.1291627254344198
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "781e95b7-89d1-43d7-91f4-c237af5c99c4",
+          "type": "caption",
+          "text": "Troyes",
+          "center": {
+            "x": 0.7201799091539884,
+            "y": 0.32017785748310473
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        },
+        {
+          "id": "a6917424-5287-48b1-a31a-d8357307723f",
+          "type": "caption",
+          "text": "Châlons",
+          "center": {
+            "x": 0.6979513579008112,
+            "y": 0.5428709815387138
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 92,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p30-1-from-empty2-v2",
+      "image": "p30-1-from-empty2-v2.png",
+      "balloons": [
+        {
+          "id": "ef9b8339-8d0e-412f-9e19-695949d8b80b",
+          "type": "caption",
+          "text": "LES BOURGEOIS DE REIMS PORTÈRENT AU DAUPHIN LES CLÉS DE LA VILLE.",
+          "center": {
+            "x": 0.3961951150848535,
+            "y": 0.7916526296617628
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p30-5-from-empty2-v2",
+      "image": "p30-5-from-empty2-v2.png",
+      "balloons": [
+        {
+          "id": "f2289b85-f148-4faa-bbad-bb3325d0f186",
+          "type": "caption",
+          "text": "CHÂLONS OUVRIT SES PORTES, N'OSANT S'ATTAQUER À L'ARMÉE COMMANDÉE PAR LA PUCELLE -",
+          "center": {
+            "x": 0.6533308622369355,
+            "y": 0.07963721215534919
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 460,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p30-6-from-empty2-v2",
+      "image": "p30-6-from-empty2-v2.png",
+      "balloons": [
+        {
+          "id": "2f77735d-0247-4935-80ec-77cadda84700",
+          "type": "caption",
+          "text": "LA POPULATION D'AUXERRE ET DE TROYES TOMBA RAPIDEMENT. ",
+          "center": {
+            "x": 0.6095375170547996,
+            "y": 0.8877260843372243
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 470,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "generated-image-crown-1",
+      "image": "Generated image crown-1.png",
+      "balloons": [
+        {
+          "id": "f126479f-7278-4ae4-88aa-ff4af95cfe77",
+          "type": "caption",
+          "text": "LE DIMANCHE 17 JUILLET 1429\nCHARLES VII EST SACRÉ ROI À REIMS.",
+          "center": {
+            "x": 0.2515994350305585,
+            "y": 0.9051062018204952
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 530,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p29-5-from-empty2-v3",
+      "image": "p29-5-from-empty2-v3.png",
+      "balloons": [
+        {
+          "id": "336aaffb-8ea1-4f46-a3a8-efa6561dac17",
+          "type": "caption",
+          "text": "SON ÉTENDARD AVAIT ÉTÉ À LA PEINE, IL ÉTAIT JUSTE QU'IL FÛT À L'HONNEUR.",
+          "center": {
+            "x": 0.2608189742530932,
+            "y": 0.9208809357824539
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 400,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "paris-1-2",
+      "image": "paris-1.png",
+      "balloons": [
+        {
+          "id": "69fa3066-651e-4264-bb04-723d7cb5f257",
+          "type": "caption",
+          "text": "CHARLES VII NE DEVINT RÉELLEMENT LE ROI QU'APRÈS REIMS, ALORS COMMENÇA LA RECONQUÊTE DE LA FRANCE DANS UN CHANGEMENT TOTAL DES ESPRITS.",
+          "center": {
+            "x": 0.2569945485968339,
+            "y": 0.07878655493449455
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 770,
+          "height": 157,
+          "fontSize": 30
+        },
+        {
+          "id": "d001e293-b36f-4d11-abf8-495ad58ca96c",
+          "type": "caption",
+          "text": "SOISSONS, CHÂTEAU-THIERRY, PROVINS, COULOMMIERS, COMPIÈGNE SE DONNENT AU ROI.",
+          "center": {
+            "x": 0.5011102394213517,
+            "y": 0.927376302429264
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 720,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p30-3-from-empty2-v2",
+      "image": "p30-3-from-empty2-v2.png",
+      "balloons": [
+        {
+          "id": "ee15bd43-3161-4b30-978f-4332d3830c36",
+          "type": "caption",
+          "text": "L'HÉSITANTE ROUTE DE REIMS À PARIS.",
+          "center": {
+            "x": 0.211,
+            "y": 0.87
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 380,
+          "height": 144,
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "id": "paris-2",
+      "image": "paris-2.png",
+      "balloons": [
+        {
+          "id": "790ab308-fe27-4658-ac77-3590067bb5d5",
+          "type": "dialogue",
+          "text": "Y A-T-IL QUELQUE CHOSE QUE JE PUISSE FAIRE POUR TOI, JEANNE ?",
+          "center": {
+            "x": 0.602,
+            "y": 0.148
+          },
+          "source": {
+            "x": 0.448,
+            "y": 0.39
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        },
+        {
+          "id": "b3ab4376-bf46-4b69-b28d-109947a6257d",
+          "type": "dialogue",
+          "text": "JE NE VEUX RIEN POUR MOI, SIRE, MAIS J'AIMERAIS QUE VOUS LEVIEZ LES IMPÔTS DE MON PAYS.",
+          "center": {
+            "x": 0.556,
+            "y": 0.6233004398163523
+          },
+          "source": {
+            "x": 0.695,
+            "y": 0.468
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "paris-3",
+      "image": "paris-3.png",
+      "balloons": [
+        {
+          "id": "0380ea84-b034-46ff-83c3-28d83a9ecdd1",
+          "type": "caption",
+          "text": "MONTEPILLOY : ANGLAIS ET FRANÇAIS, À PORTÉE DE \"COULEUVRINE\", RESTÈRENT EN PRÉSENCE PENDANT UNE JOURNÉE AVANT DE SE RETIRER EN BON ORDRE.",
+          "center": {
+            "x": 0.19498491059079692,
+            "y": 0.8721975503692465
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 530,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "paris-4",
+      "image": "paris-4.png",
+      "balloons": [
+        {
+          "id": "b1fa5433-48ed-4bc8-bbd0-0450d13d0c78",
+          "type": "dialogue",
+          "text": "RENDEZ-VOUS VITE À NOUS AVANT LA NUIT !",
+          "center": {
+            "x": 0.42948793110094574,
+            "y": 0.3740055952568744
+          },
+          "source": {
+            "x": 0.29809986461292615,
+            "y": 0.5064191341906881
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        },
+        {
+          "id": "76abd791-42e8-49ed-b764-b7fefa8e96d0",
+          "type": "caption",
+          "text": "PARIS: L'ARMÉE ROYALE APPROCHE DES MURS DE LA VILLE, COMBLANT LES FOSSÉS DE FAGOTS.",
+          "center": {
+            "x": 0.19242393457148066,
+            "y": 0.9002645280535999
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 500,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "paris-5",
+      "image": "paris-5.png",
+      "balloons": [
+        {
+          "id": "5de740e3-4aae-4fac-961b-85fb5866e977",
+          "type": "dialogue",
+          "text": "JAMAIS, PAILLARDE, RIBAUDE.",
+          "center": {
+            "x": 0.478,
+            "y": 0.695
+          },
+          "source": {
+            "x": 0.435,
+            "y": 0.344
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 44
+        }
+      ]
+    },
+    {
+      "id": "p31-4-from-empty2-v1",
+      "image": "p31-4-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "4cc286a8-555d-4989-adb8-88bae103c9a8",
+          "type": "dialogue",
+          "text": "LE ROI DÉSIRE UNE TRÊVE, L'ARMÉE EST DISSOUTE.",
+          "center": {
+            "x": 0.451,
+            "y": 0.132
+          },
+          "source": {
+            "x": 0.26081893774881315,
+            "y": 0.24090522660712507
+          },
+          "width": 290,
+          "height": 210,
+          "fontSize": 30
+        },
+        {
+          "id": "6ed49c15-334f-4e65-8acc-f667de8d58bf",
+          "type": "dialogue",
+          "text": "PEUT-ÊTRE EST-CE LA VOLONTÉ DU SEIGNEUR. ADIEU BEAU-DUC.",
+          "center": {
+            "x": 0.5409892694938696,
+            "y": 0.6283925734549349
+          },
+          "source": {
+            "x": 0.689,
+            "y": 0.382
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p31-5-from-empty2-v1",
+      "image": "p31-5-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "f43b319f-9801-4dee-8328-61ab6399e08d",
+          "type": "caption",
+          "text": "N'AYANT PLUS DÉSORMAIS BESOIN DES SERVICES DE JEANNE, CHARLES L'ANOBLIT, ELLE ET TOUTE SA FAMILLE EN TÉMOIGNAGE DE LA RECONNAISSANCE ROYALE.",
+          "center": {
+            "x": 0.242,
+            "y": 0.315
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 500,
+          "height": 405,
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "id": "p31-3-from-empty2-v1",
+      "image": "p31-3-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "0c80d4df-35c3-472c-a8a1-960b154e737e",
+          "type": "caption",
+          "text": "PRÈS DU GISANT DE DU GUESCLIN, JEANNE DÉPOSA UN HARNAIS ET SON ÉPÉE SUR L'AUTEL DE L'ABBAYE DE SAINT-DENIS.\n.\nEN EX-VOTO À LA SUITE DE SA BLESSURE DEVANT PARIS.",
+          "center": {
+            "x": 0.729,
+            "y": 0.807
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 590,
+          "height": 319,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "l-hiver-1429-1430-apr-s-la-rep-2",
+      "markdown": "L'HIVER 1429-1430 : APRÈS LA REPRISE AUX BOURGUIGNONS DE SAINT-PIERRE-LE-MOUSTIER ET L'ÉCHEC DE L'ASSAUT CONTRE LA CHARITÉ-SUR-LOIRE, LES MOIS D'HIVER RENDAIENT LES OPÉRATIONS MILITAIRES DIFFICILES ; \nJEANNE ACCEPTAIT MAL L'INACTION ET S'INQUIÉTAIT DES MENÉES BOURGUIGNONNES. DÈS LE PRINTEMPS 1430, ELLE REPRENAIT LE CHEMIN DE L'ÎLE-DE-FRANCE ET FAISAIT DE COMPIÈGNE SON POINT D'ATTACHE.",
+      "fontSize": 20,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "comp-6",
+      "image": "comp-6.png",
+      "balloons": [
+        {
+          "id": "ef6ec8ca-ef4a-45d9-a71e-554eab5eecd2",
+          "type": "caption",
+          "text": "QUELQUE TEMPS PLUS TARD, LES SOLDATS DE PHILIPPE LE BON, ALLIÉS DES ANGLAIS, ASSIÉGEAIENT COMPIÈGNE.",
+          "center": {
+            "x": 0.3657095147091806,
+            "y": 0.9042568013011838
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 430,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "comp-7",
+      "image": "comp-7.png",
+      "balloons": [
+        {
+          "id": "b427243b-2512-4f5a-a5e4-32bb6fdb037d",
+          "type": "dialogue",
+          "text": "JE VEUX CAPTURER CETTE MALDITE SORCIÈRE, NOUS ALLONS LUI TENDRE UN PIÈGE...",
+          "center": {
+            "x": 0.558,
+            "y": 0.467
+          },
+          "source": {
+            "x": 0.395,
+            "y": 0.312
+          },
+          "width": 350,
+          "height": 244,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "comp-8",
+      "image": "comp-8.png",
+      "balloons": [
+        {
+          "id": "b42285dd-2c5a-4eb8-9802-05edaf38e3fa",
+          "type": "dialogue",
+          "text": "MON DIEU, MAIS L'ON SE BAT. EN SELLE VITE !",
+          "center": {
+            "x": 0.58566620019064,
+            "y": 0.6350054795430393
+          },
+          "source": {
+            "x": 0.5198458073812239,
+            "y": 0.3302875968779058
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "comp-9",
+      "image": "comp-9.png",
+      "balloons": [
+        {
+          "id": "ac3f3fbe-9652-41a4-93e1-5a146f8810b9",
+          "type": "dialogue",
+          "text": "EN ARRIÈRE, LA VOILÀ...",
+          "center": {
+            "x": 0.7973048744019139,
+            "y": 0.26170124828245384
+          },
+          "source": {
+            "x": 0.671,
+            "y": 0.43
+          },
+          "width": 200,
+          "height": 160,
+          "fontSize": 30
+        },
+        {
+          "id": "bf123435-fcdf-4fc0-9cd0-08b022ad6d74",
+          "type": "caption",
+          "text": "JEANNE S'ÉLANÇA À LEUR POURSUITE",
+          "center": {
+            "x": 0.6069120197204882,
+            "y": 0.911743742631675
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "comp-10",
+      "image": "comp-10.png",
+      "balloons": [
+        {
+          "id": "d0353b81-635c-48a7-9d10-ba4b56ce9d75",
+          "type": "caption",
+          "text": "MAIS AU DÉTOUR D'UN BOSQUET ELLE SE TROUVA FACE À D'AUTRES BOURGUIGNONS",
+          "center": {
+            "x": 0.5705598530016447,
+            "y": 0.8679747575198427
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "comp-11",
+      "image": "comp-11.png",
+      "balloons": [
+        {
+          "id": "4d3c1145-b32c-4374-8206-0753375997ac",
+          "type": "caption",
+          "text": "HÉLAS, POUR EMPÊCHER LES ENNEMIS D'ENTRER DANS LE PONT-LEVIS.",
+          "center": {
+            "x": 0.6615392511541193,
+            "y": 0.8788836241832574
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        },
+        {
+          "id": "fe1f5276-dbad-4791-992b-0133486dcd3d",
+          "type": "caption",
+          "text": "AUSSITÔT, SENTANT LE PIÈGE, ELLE REBROUSSA CHEMIN.",
+          "center": {
+            "x": 0.13430697609933367,
+            "y": 0.0902900197984815
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 300,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p33-1-from-empty2-v1",
+      "image": "p33-1-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "0ff0ba95-e1db-46ce-962c-b30ff10adf59",
+          "type": "dialogue",
+          "text": "EH BIEN, SORCIÈRE, LE SEIGNEUR T'ABANDONNE\nHA ! HA ! HA !",
+          "center": {
+            "x": 0.39450160852459626,
+            "y": 0.11654896881071083
+          },
+          "source": {
+            "x": 0.2993359542919688,
+            "y": 0.3522388162319009
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p33-2-from-empty2-v1",
+      "image": "p33-2-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "4063648f-e5b3-44d3-8d6d-3b77ae5b0a81",
+          "type": "dialogue",
+          "text": "LES ANGLAIS DONNERONT SÛREMENT UN BON PRIX POUR CETTE CAPTURE.",
+          "center": {
+            "x": 0.352,
+            "y": 0.158
+          },
+          "source": {
+            "x": 0.544,
+            "y": 0.375
+          },
+          "width": 300,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p33-5-from-empty2-v1",
+      "image": "p33-5-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "6e6b6013-09aa-475c-b78a-f46c62f6d175",
+          "type": "caption",
+          "text": "ALERTE ! LA PRISONNIÈRE S'ÉVADE.\n\nUNE NOUVELLE TENTATIVE FAILLIT SE TERMINER TRAGIQUEMENT.\n\nELLE SE REMIT DE SA CHUTE, UN SORT PLUS TRAGIQUE ENCORE L'ATTENDAIT.",
+          "center": {
+            "x": 0.6723820079456676,
+            "y": 0.8397528244813115
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 560,
+          "height": 233,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p33-6-from-empty2-v1",
+      "image": "p33-6-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "4c9188b8-e843-4831-a788-c45bfd4610d9",
+          "type": "caption",
+          "text": "C'EST ALORS QU'ENTRA EN SCÈNE UN PERSONNAGE DE SINISTRE RÉPUTATION, L'ÉVÊQUE CAUCHON, CHASSÉ DU DIOCÈSE DE BEAUVAIS PAR LES HABITANTS, MAINTENANT À LA SOLDE DES ANGLAIS.",
+          "center": {
+            "x": 0.24265094008742338,
+            "y": 0.09347824729084336
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 800,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p33-7-from-empty2-v1",
+      "image": "p33-7-from-empty2-v1.png",
+      "balloons": [
+        {
+          "id": "63522c81-b537-42cc-9169-4ba07caeebfd",
+          "type": "dialogue",
+          "text": "JE CONDUIRAI LE PROCÈS MOI-MÊME. CETTE FILLE AURA LE SORT QU'ELLE MÉRITE.",
+          "center": {
+            "x": 0.477122001100385,
+            "y": 0.11841767589800162
+          },
+          "source": {
+            "x": 0.29533400832180773,
+            "y": 0.3649193077614406
+          },
+          "width": 320,
+          "height": 227,
+          "fontSize": 30
+        },
+        {
+          "id": "8dea151a-6603-42ad-9fc2-aba3cb1082cf",
+          "type": "caption",
+          "text": "LE SORT DE JEANNE EST DÉSORMAIS ENTRE LES MAINS DES ANGLAIS.",
+          "center": {
+            "x": 0.18141141462554203,
+            "y": 0.878381511108528
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p34-7-from-full-v1-2",
+      "image": "p34-7-from-full-v1.png",
+      "balloons": []
+    },
+    {
+      "id": "p33-3",
+      "image": "p33-3.png",
+      "balloons": []
+    },
+    {
+      "id": "compi-gne-margny-l-s-compi-gne-c",
+      "markdown": "Compiègne\nMargny-lès-Compiègne\nClairoix\nBeaulieu-les-Fontaines\nBeaurevoir\nArras\nLe Crotoy",
+      "fontSize": 26,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p34-1-requirements-v1-2",
+      "image": "p34-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "f97d190e-6452-467d-989f-2f198dd79758",
+          "type": "caption",
+          "text": "JEANNE FUT REMISE AUX ANGLAIS POUR 10 000 LIVRES TOURNOIS, AU CROTOY EN BAIE DE SOMME.",
+          "center": {
+            "x": 0.4872088272605786,
+            "y": 0.09242568272459899
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "c81bf5c9-24eb-496c-820e-e7b1cd18343e",
+          "type": "caption",
+          "text": "LE 3 JANVIER 1431, JEANNE QUITTAIT SA CELLULE DE BEAUREVOIR POUR ÊTRE TRANSFÉRÉE À ROUEN.",
+          "center": {
+            "x": 0.494,
+            "y": 0.911
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 550,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p34-2-requirements-v1",
+      "image": "p34-2-requirements-v1.png",
+      "balloons": []
+    },
+    {
+      "id": "p34-3-requirements-v1",
+      "image": "p34-3-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "c10883e2-8901-452f-ab7f-5e740fec64a7",
+          "type": "caption",
+          "text": "LE DERNIER VOYAGE DE JEANNE.",
+          "center": {
+            "x": 0.5203153636877617,
+            "y": 0.06472368869112605
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 640,
+          "height": 92,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p34-1-requirements-v1",
+      "image": "p34-1-requirements-v1.png",
+      "balloons": []
+    },
+    {
+      "id": "eu-criel-dieppe-longueville-blaq",
+      "markdown": "Saint-Valery\nEU\nCRIEL\nDIEPPE\nLONGUEVILLE\nBLAQUETUIT\nISNEAUVILLE\nROUEN",
+      "fontSize": 25,
+      "fontFamily": "system",
+      "balloons": []
+    },
+    {
+      "id": "p34-4-requirements-v1",
+      "image": "p34-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "8aa0261f-31b9-4000-8b94-ec3545df31a8",
+          "type": "caption",
+          "text": "À ROUEN, CAPITALE DE L'OCCUPATION, LE CHÂTEAU DE BOUVREUIL SERA LA DERNIÈRE ÉTAPE DE JEANNE.",
+          "center": {
+            "x": 0.2188019638426566,
+            "y": 0.898373946251702
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 560,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p34-6-requirements-v1",
+      "image": "p34-6-requirements-v1.png",
+      "balloons": []
+    },
+    {
+      "id": "p34-7-requirements-v1",
+      "image": "p34-7-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "072ec897-605b-4aaa-9ba9-75b9a53d1118",
+          "type": "dialogue",
+          "text": "SANS ELLE, LA FRANCE EST À NOUS, ÉVÊQUE.",
+          "center": {
+            "x": 0.542,
+            "y": 0.602
+          },
+          "source": {
+            "x": 0.649,
+            "y": 0.335
+          },
+          "width": 250,
+          "height": 188,
+          "fontSize": 30
+        },
+        {
+          "id": "751f56b3-beb3-41d6-8ff6-75e9cd68538a",
+          "type": "caption",
+          "text": "BEDFORD, CHEF DES FORCES ENNEMIES, NE CACHAIT PAS SA JOIE.",
+          "center": {
+            "x": 0.14701328551369988,
+            "y": 0.8954446803548004
+          },
+          "source": {
+            "x": 0.6725055019250897,
+            "y": 0.37306847405104276
+          },
+          "width": 360,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-1-requirements-v1",
+      "image": "p35-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "e3851acd-c341-44b4-b7ed-9819e1cde4a2",
+          "type": "dialogue",
+          "text": "COMMENÇONS LE PROCÈS DÈS DEMAIN, MON CHER BEDFORD.",
+          "center": {
+            "x": 0.4363385514984861,
+            "y": 0.7384965270282612
+          },
+          "source": {
+            "x": 0.3876928667132364,
+            "y": 0.46978523019269725
+          },
+          "width": 250,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-2-requirements-v1",
+      "image": "p35-2-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "f1d475a1-6b99-4caf-9519-72fd15d6dcbb",
+          "type": "dialogue",
+          "text": "VOTRE IDÉE EST GÉNIALE, NOUS POURRONS LA CONDAMNER POUR HÉRÉSIE.",
+          "center": {
+            "x": 0.729,
+            "y": 0.456
+          },
+          "source": {
+            "x": 0.571,
+            "y": 0.215
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "ed828c83-c00a-4816-b752-2faf53d48783",
+          "type": "caption",
+          "text": "LE PLAN DES DEUX SINISTRES COMPÈRES ÉTAIT SIMPLE : FAIRE D'UNE AFFAIRE POLITIQUE UN PROCÈS RELIGIEUX.",
+          "center": {
+            "x": 0.38,
+            "y": 0.8818050061022183
+          },
+          "source": {
+            "x": 0.548,
+            "y": 0.255
+          },
+          "width": 470,
+          "height": 190,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-3-requirements-v1",
+      "image": "p35-3-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "e4e084c0-20af-40af-8066-b154eb23a1b5",
+          "type": "dialogue",
+          "text": "VIENS DONC PAR ICI, LA FILLE...",
+          "center": {
+            "x": 0.569,
+            "y": 0.429
+          },
+          "source": {
+            "x": 0.453,
+            "y": 0.23
+          },
+          "width": 200,
+          "height": 160,
+          "fontSize": 30
+        },
+        {
+          "id": "bfe67cdd-b203-48f9-86a3-817519b40832",
+          "type": "dialogue",
+          "text": "ALLONS, DU NERF, TU N'ES PAS AU BOUT DE TES PEINES.",
+          "center": {
+            "x": 0.348,
+            "y": 0.573
+          },
+          "source": {
+            "x": 0.231,
+            "y": 0.246
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-5-requirements-v1",
+      "image": "p35-5-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "47c9c081-22ba-4feb-9ab0-9c80f695f647",
+          "type": "caption",
+          "text": "9 JANVIER 1431, OUVERTURE DU PROCÈS.",
+          "center": {
+            "x": 0.48817724930612666,
+            "y": 0.9025776372376462
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-4-requirements-v1",
+      "image": "p35-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "e666c082-f1a2-4d48-9558-86fd796f4c9e",
+          "type": "dialogue",
+          "text": "JUREZ-VOUS DE DIRE LA VÉRITÉ ?",
+          "center": {
+            "x": 0.2429451333369935,
+            "y": 0.1315836763452901
+          },
+          "source": {
+            "x": 0.453,
+            "y": 0.262
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 30
+        },
+        {
+          "id": "2af6b396-d1ef-4e28-afa6-92e546448978",
+          "type": "dialogue",
+          "text": "PARLEZ-MOI DE VOTRE ENFANCE.",
+          "center": {
+            "x": 0.4704226097581489,
+            "y": 0.41628698587772317
+          },
+          "source": {
+            "x": 0.6866485741720245,
+            "y": 0.2979674384900538
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        },
+        {
+          "id": "93d0c007-4bf9-4d4b-9afa-deb2805521f7",
+          "type": "dialogue",
+          "text": "ENTENDEZ-VOUS ENCORE VOS VOIX ?",
+          "center": {
+            "x": 0.6956505296332984,
+            "y": 0.5773091766000681
+          },
+          "source": {
+            "x": 0.7670354523727198,
+            "y": 0.38494052542383433
+          },
+          "width": 210,
+          "height": 165,
+          "fontSize": 30
+        },
+        {
+          "id": "b34e952a-46de-471c-930d-2fb5df7708e8",
+          "type": "dialogue",
+          "text": "FAITES L'UN APRÈS L'AUTRE, BEAUX SEIGNEURS.",
+          "center": {
+            "x": 0.49,
+            "y": 0.864
+          },
+          "source": {
+            "x": 0.286,
+            "y": 0.535
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p35-4-requirements-v1-2",
+      "image": "p35-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "8b3fc2bf-a12c-434c-b929-466d0544c326",
+          "type": "dialogue",
+          "text": "QUEL SIGNE AVEZ-VOUS DONNÉ AU ROI DE VOTRE MISSION ?",
+          "center": {
+            "x": 0.515,
+            "y": 0.469
+          },
+          "source": {
+            "x": 0.587,
+            "y": 0.285
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 30
+        },
+        {
+          "id": "78916cab-ab1f-42b3-b809-536495f05b92",
+          "type": "dialogue",
+          "text": "J'AI PROMIS DE LE TENIR SECRET.",
+          "center": {
+            "x": 0.44400418426659694,
+            "y": 0.7625083635676806
+          },
+          "source": {
+            "x": 0.293994155226712,
+            "y": 0.5653482208089798
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "trial-3",
+      "image": "trial-3.png",
+      "balloons": [
+        {
+          "id": "074df423-a6b2-40d0-bf76-b66461029fa5",
+          "type": "dialogue",
+          "text": "CE PROCÈS EST SCANDALEUX !",
+          "center": {
+            "x": 0.4729414214357805,
+            "y": 0.14188938250323788
+          },
+          "source": {
+            "x": 0.2501036539032128,
+            "y": 0.30287282297132373
+          },
+          "width": 220,
+          "height": 171,
+          "fontSize": 30
+        },
+        {
+          "id": "c86bdf4c-be3b-42ed-abd3-cfb48012fa2a",
+          "type": "dialogue",
+          "text": "SOIS FORTE, JEANNE !",
+          "center": {
+            "x": 0.468,
+            "y": 0.53
+          },
+          "source": {
+            "x": 0.34877861059453497,
+            "y": 0.3946162192398379
+          },
+          "width": 180,
+          "height": 148,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p36-1-requirements-v1",
+      "image": "p36-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "ace65a90-d2c5-49f6-b307-8e222f56bbbe",
+          "type": "dialogue",
+          "text": "QUEL SIGNE AVEZ-VOUS DONNÉ AU ROI DE VOTRE MISSION ?",
+          "center": {
+            "x": 0.308,
+            "y": 0.66
+          },
+          "source": {
+            "x": 0.344,
+            "y": 0.351
+          },
+          "width": 250,
+          "height": 190,
+          "fontSize": 30
+        },
+        {
+          "id": "227cc3e7-8f3a-4af3-aacf-f81ff97582ad",
+          "type": "dialogue",
+          "text": "J'AI PROMIS DE LE TENIR SECRET.",
+          "center": {
+            "x": 0.599,
+            "y": 0.655
+          },
+          "source": {
+            "x": 0.643,
+            "y": 0.39
+          },
+          "width": 200,
+          "height": 160,
+          "fontSize": 30
+        },
+        {
+          "id": "cbdc7d9d-7375-4783-8e8a-ecda0597a33c",
+          "type": "caption",
+          "text": "APRÈS CETTE SÉANCE TUMULTUEUSE, CAUCHON DÉCIDA DE L'INTERROGER À HUIS CLOS DANS SA PRISON. MAIS JEANNE RÉSISTAIT.",
+          "center": {
+            "x": 0.3642665735272129,
+            "y": 0.9453188837195303
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 790,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p36-2-requirements-v1-2",
+      "image": "p36-2-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "93b1c763-6ddc-41c4-ac30-aad494a3d0e2",
+          "type": "dialogue",
+          "text": "DE TOUT, JE M'EN RAPPORTE À DIEU.",
+          "center": {
+            "x": 0.506,
+            "y": 0.761
+          },
+          "source": {
+            "x": 0.488,
+            "y": 0.442
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p36-4-requirements-v1",
+      "image": "p36-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "9c052cc8-2049-4ee4-8214-a4780b7915e8",
+          "type": "caption",
+          "text": "WARWICK, GOUVERNEUR DE LA VILLE, ET STAFFORD VINRENT LA VISITER.",
+          "center": {
+            "x": 0.833306928570761,
+            "y": 0.8715656159712075
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 390,
+          "height": 222,
+          "fontSize": 30
+        },
+        {
+          "id": "ffc851f1-0e87-433c-aaaa-702f64df015f",
+          "type": "dialogue",
+          "text": "DIEU HAIT-IL LES ANGLAIS ?",
+          "center": {
+            "x": 0.68,
+            "y": 0.498
+          },
+          "source": {
+            "x": 0.529,
+            "y": 0.252
+          },
+          "width": 200,
+          "height": 160,
+          "fontSize": 30
+        },
+        {
+          "id": "8aad7d86-63cf-4e6c-8b1b-a86542f2d82c",
+          "type": "dialogue",
+          "text": "DE L'AMOUR OU DE LA HAINE, JE N'EN SAIS RIEN.\nMAIS JE SAIS BIEN QU'ILS SERONT CHASSÉS DE FRANCE AVANT QU'IL NE SOIT SEPT ANS.",
+          "center": {
+            "x": 0.421,
+            "y": 0.807
+          },
+          "source": {
+            "x": 0.27,
+            "y": 0.45
+          },
+          "width": 390,
+          "height": 267,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p36-5-requirements-v1",
+      "image": "p36-5-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "acd7813c-5726-4cbb-8edd-0df97f0eb912",
+          "type": "caption",
+          "text": "FURIEUX, LE COMTE DE STAFFORD SE JETA SUR ELLE. IL L'AURAIT TUÉE SANS L'INTERVENTION DES ASSISTANTS.",
+          "center": {
+            "x": 0.5675827099375748,
+            "y": 0.8622150267906068
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 550,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p37-1-requirements-v1",
+      "image": "p37-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "fd1ea40a-3755-467d-933b-746a566a3f3c",
+          "type": "dialogue",
+          "text": "SAVEZ-VOUS SI VOUS ÊTES DANS LA GRÂCE DE DIEU ?",
+          "center": {
+            "x": 0.355,
+            "y": 0.507
+          },
+          "source": {
+            "x": 0.317,
+            "y": 0.318
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 30
+        },
+        {
+          "id": "58ce8fdd-e11d-422c-813c-4b7a2f67b664",
+          "type": "dialogue",
+          "text": "SI JE LE SUIS, DIEU VEUILLE M'Y LAISSER, SI JE NE LE SUIS PAS, DIEU VEUILLE M'Y METTRE.",
+          "center": {
+            "x": 0.6309731246729217,
+            "y": 0.6522785413622476
+          },
+          "source": {
+            "x": 0.6451305772699237,
+            "y": 0.4434758671791977
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p37-2-requirements-v1",
+      "image": "p37-2-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "7032d786-6155-41b2-8f77-5b045697cd70",
+          "type": "dialogue",
+          "text": "CET HABIT NE CHANGE PAS MON ÂME ET LE PORTER N'EST PAS CONTRE L'ÉGLISE.",
+          "center": {
+            "x": 0.503,
+            "y": 0.753
+          },
+          "source": {
+            "x": 0.356,
+            "y": 0.409
+          },
+          "width": 320,
+          "height": 227,
+          "fontSize": 30
+        },
+        {
+          "id": "0f03b99b-6327-4813-94ff-3901764720cc",
+          "type": "dialogue",
+          "text": "CROYEZ-VOUS AVOIR BIEN FAIT DE PORTER L'HABIT D'HOMME ?",
+          "center": {
+            "x": 0.412,
+            "y": 0.097
+          },
+          "source": {
+            "x": 0.6,
+            "y": 0.216
+          },
+          "width": 300,
+          "height": 216,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p37-5-requirements-v1",
+      "image": "p37-5-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "5aaabeba-9132-4cee-a2e7-9003bb888995",
+          "type": "dialogue",
+          "text": "EH BIEN ! ÉVÊQUE, QUEL EST DONC VOTRE PLAN ?",
+          "center": {
+            "x": 0.318,
+            "y": 0.579
+          },
+          "source": {
+            "x": 0.447,
+            "y": 0.358
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        },
+        {
+          "id": "bf9d5f77-b9c4-4322-915f-efd417277704",
+          "type": "dialogue",
+          "text": "C'EST TRÈS SIMPLE, NOUS ALLONS VÉRIFIER SI JEANNE N'EST PAS RETOMBÉE DANS L'ERREUR.",
+          "center": {
+            "x": 0.646,
+            "y": 0.567
+          },
+          "source": {
+            "x": 0.58,
+            "y": 0.369
+          },
+          "width": 310,
+          "height": 222,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p38-1-requirements-v1",
+      "image": "p38-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "69899d57-9197-4e1d-a8b5-c038ecf7240a",
+          "type": "caption",
+          "text": "ET LE 24 MAI 1431, LORS DE LA LECTURE DE LA SENTENCE À SAINT-OUEN.",
+          "center": {
+            "x": 0.429,
+            "y": 0.914
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 590,
+          "height": 125,
+          "fontSize": 30
+        },
+        {
+          "id": "5cb3e727-79fa-42fb-a989-35b878f76778",
+          "type": "dialogue",
+          "text": "SIGNEZ ! VOUS VOULEZ DONC MOURIR AUJOURD'HUI ?",
+          "center": {
+            "x": 0.408,
+            "y": 0.624
+          },
+          "source": {
+            "x": 0.367,
+            "y": 0.363
+          },
+          "width": 270,
+          "height": 199,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p38-3-requirements-v1",
+      "image": "p38-3-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "51b4c921-2be7-4988-827a-3d6cc235278b",
+          "type": "caption",
+          "text": "VOUS PORTEZ L'HABIT D'HOMME, VOUS ÊTES RELAPSE.",
+          "center": {
+            "x": 0.4378314953671688,
+            "y": 0.8362766745037278
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 450,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p38-4-requirements-v1",
+      "image": "p38-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "5b10444e-d2a5-44f4-b36c-a9d96be020b8",
+          "type": "dialogue",
+          "text": "CETTE FAUTE MÉRITE LA MORT, JEANNE !",
+          "center": {
+            "x": 0.251,
+            "y": 0.492
+          },
+          "source": {
+            "x": 0.332,
+            "y": 0.294
+          },
+          "width": 230,
+          "height": 177,
+          "fontSize": 30
+        },
+        {
+          "id": "6996cc4e-8b8b-4008-a82d-fd5c5229cd98",
+          "type": "dialogue",
+          "text": "JE SUIS ENVOYÉE DE DIEU ET VOUS VOUS METTEZ, ÉVÊQUE, EN GRAND DANGER. JE MEURS PAR VOUS.",
+          "center": {
+            "x": 0.46509070145456416,
+            "y": 0.7932348087971571
+          },
+          "source": {
+            "x": 0.5883813520367636,
+            "y": 0.3487123333305659
+          },
+          "width": 360,
+          "height": 250,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p38-4-carriage-shaved-mitre-v3",
+      "image": "p38-4-carriage-shaved-mitre-v3.png",
+      "balloons": [
+        {
+          "id": "d134317b-e7d9-4087-aa0c-8d279d5277dc",
+          "type": "caption",
+          "text": "30 MAI 1431 : JEANNE EST MENÉE PLACE DU VIEUX-MARCHÉ.",
+          "center": {
+            "x": 0.736,
+            "y": 0.821
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 370,
+          "height": 157,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p39-1-requirements-v1",
+      "image": "p39-1-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "c3760d21-2730-4355-91ba-c809f4b7899b",
+          "type": "dialogue",
+          "text": "ROUEN, ROUEN, SERAS-TU MA DERNIÈRE DEMEURE ? J'AI GRANDE PEUR QUE TU N'AIES À SOUFFRIR DE MA MORT.",
+          "center": {
+            "x": 0.493,
+            "y": 0.826
+          },
+          "source": {
+            "x": 0.459,
+            "y": 0.43
+          },
+          "width": 340,
+          "height": 238,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p38-4-execution-shaved-mitre-v2",
+      "image": "p38-4-execution-shaved-mitre-v2.png",
+      "balloons": [
+        {
+          "id": "910498a2-3edf-48e0-b04b-664d99d2f278",
+          "type": "dialogue",
+          "text": "JE VOUS PRIE DE TENIR CETTE CROIX DEVANT MES YEUX JUSQU'À MA MORT.",
+          "center": {
+            "x": 0.529,
+            "y": 0.759
+          },
+          "source": {
+            "x": 0.493,
+            "y": 0.35
+          },
+          "width": 280,
+          "height": 205,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p39-3-requirements-v1",
+      "image": "p39-3-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "58e151c3-a6f2-4bdd-9d6c-fcc7e4ee3d75",
+          "type": "dialogue",
+          "text": "JÉSUS ! JÉSUS !\nJÉSUS !",
+          "center": {
+            "x": 0.28,
+            "y": 0.127
+          },
+          "source": {
+            "x": 0.507,
+            "y": 0.267
+          },
+          "width": 230,
+          "height": 169,
+          "fontSize": 30
+        },
+        {
+          "id": "fb6d93aa-26bb-41e0-a5df-67d19b33ca37",
+          "type": "caption",
+          "text": "30 MAI 1431 : ELLE N'AVAIT PAS VINGT ANS.",
+          "center": {
+            "x": 0.5570971840306332,
+            "y": 0.8899646832813745
+          },
+          "source": {
+            "x": 0.5207271667188434,
+            "y": 0.287631352066867
+          },
+          "width": 360,
+          "height": 125,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p39-4-requirements-v1",
+      "image": "p39-4-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "fd15a952-14c2-4138-809a-edcffe77adee",
+          "type": "dialogue",
+          "text": "NOUS SOMMES PERDUS, NOUS AVONS BRÛLÉ UNE SAINTE.",
+          "center": {
+            "x": 0.475,
+            "y": 0.145
+          },
+          "source": {
+            "x": 0.634,
+            "y": 0.464
+          },
+          "width": 260,
+          "height": 193,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "p39-5-requirements-v1",
+      "image": "p39-5-requirements-v1.png",
+      "balloons": [
+        {
+          "id": "5dc2b63a-6d79-42b1-85a7-0a029d808a56",
+          "type": "caption",
+          "text": "LES CENDRES DE JEANNE FURENT JETÉES DANS LA SEINE, SUR L'ORDRE DES ANGLAIS POUR ÉVITER QUE L'ON EN FASSE DES RELIQUES.",
+          "center": {
+            "x": 0.7525520872271232,
+            "y": 0.8316725578672954
+          },
+          "source": {
+            "x": 0.5,
+            "y": 0.42
+          },
+          "width": 430,
+          "height": 254,
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "id": "jeanne-sans-sepulcre-et-sans",
+      "markdown": "Ô JEANNE, SANS SÉPULCRE ET SANS PORTRAIT, TOI QUI SAVAIS QUE LE TOMBEAU DES HÉROS EST LE CŒUR DES VIVANTS.\n-\nAndré MALRAUX",
+      "fontSize": 24,
+      "fontFamily": "system",
+      "balloons": []
+    }
+  ]
+}
