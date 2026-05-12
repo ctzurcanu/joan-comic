@@ -4,6 +4,7 @@ const DATA_URLS = {
 };
 
 const VIEWBOX = { width: 1672, height: 941 };
+const MARKDOWN_BASE_STAGE = { width: 560, height: 315 };
 const STORAGE_KEY_PREFIX = "joan-comic-texts";
 
 let data;
@@ -16,6 +17,7 @@ let selectedBalloonId = null;
 let pendingInsertIndex = null;
 let resizeTimer = null;
 let presentationRedrawTimers = [];
+let markdownFitTimers = [];
 const drawings = new Map();
 const renderedBalloons = new Map();
 const markdownLayers = new Map();
@@ -88,6 +90,7 @@ function wireUi() {
     document.body.classList.toggle("presentation-gallery", presentationMode === "gallery");
     updatePresentation();
     schedulePresentationRedraw();
+    scheduleMarkdownFrameFit();
   });
 
   prevFrameBtn.addEventListener("click", () => moveActive(-1));
@@ -101,6 +104,7 @@ function wireUi() {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
       redrawAllBalloons();
+      scheduleMarkdownFrameFit();
       updatePresentation();
     }, 80);
   });
@@ -583,6 +587,26 @@ function schedulePresentationRedraw() {
   }
 }
 
+function scheduleMarkdownFrameFit() {
+  markdownFitTimers.forEach((timer) => clearTimeout(timer));
+  markdownFitTimers = [];
+  requestAnimationFrame(() => {
+    fitAllMarkdownFrames();
+  });
+  for (const delay of [80, 240, 460]) {
+    markdownFitTimers.push(setTimeout(() => {
+      fitAllMarkdownFrames();
+    }, delay));
+  }
+}
+
+function fitAllMarkdownFrames() {
+  markdownLayers.forEach((layer, frameId) => {
+    const frame = data.frames.find((item) => item.id === frameId);
+    if (frame) fitMarkdownFrame(layer, frame);
+  });
+}
+
 function removeRenderedBalloon(frameId, balloonId) {
   const key = balloonKey(frameId, balloonId);
   const rendered = renderedBalloons.get(key);
@@ -747,11 +771,46 @@ function renderMarkdownFrame(stage, frame) {
   layer.innerHTML = markdownToHtml(frame.markdown);
   stage.prepend(layer);
   markdownLayers.set(frame.id, layer);
+  requestAnimationFrame(() => fitMarkdownFrame(layer, frame));
+  document.fonts?.ready.then(() => fitMarkdownFrame(layer, frame));
 }
 
 function fontFamilyValue(fontFamily) {
   if (fontFamily === "system") return "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
   return `"${fontFamily}", serif`;
+}
+
+function fitMarkdownFrame(layer, frame) {
+  const stage = layer.parentElement;
+  if (!stage) return;
+
+  const stageWidth = stage.clientWidth || stage.getBoundingClientRect().width;
+  const stageHeight = stage.clientHeight || stage.getBoundingClientRect().height;
+  const scaleX = stageWidth / MARKDOWN_BASE_STAGE.width || 1;
+  const scaleY = stageHeight / MARKDOWN_BASE_STAGE.height || scaleX;
+  const baseFontSize = Number(frame.fontSize) || 38;
+  const targetFontSize = Math.max(1, baseFontSize * Math.min(1, scaleX, scaleY));
+
+  layer.style.setProperty("--markdown-font-size", `${targetFontSize}px`);
+
+  if (!markdownLayerOverflows(layer)) return;
+
+  let low = 1;
+  let high = targetFontSize;
+  for (let index = 0; index < 10; index += 1) {
+    const mid = (low + high) / 2;
+    layer.style.setProperty("--markdown-font-size", `${mid}px`);
+    if (markdownLayerOverflows(layer)) {
+      high = mid;
+    } else {
+      low = mid;
+    }
+  }
+  layer.style.setProperty("--markdown-font-size", `${low}px`);
+}
+
+function markdownLayerOverflows(layer) {
+  return layer.scrollHeight > layer.clientHeight + 1 || layer.scrollWidth > layer.clientWidth + 1;
 }
 
 function redrawFrame(frame) {
