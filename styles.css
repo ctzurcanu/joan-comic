@@ -489,3 +489,49 @@ body.presentation-gallery .nav-arrow {
     right: 18px;
   }
 }
+
+@media (orientation: landscape) and (max-height: 600px) {
+  .topbar {
+    display: none;
+  }
+
+  .workspace {
+    margin: 0 auto;
+    width: 100%;
+    gap: 0;
+  }
+
+  body.presentation-gallery .gallery {
+    min-height: 100vh;
+  }
+
+  body.presentation-gallery .frame-card {
+    flex: 0 0 min(96vw, calc(100vh * 1672 / 941));
+    margin: 0 8px;
+    transform: scale(0.88);
+  }
+
+  body.presentation-gallery .frame-card.active {
+    transform: scale(1);
+  }
+
+  .frame-card {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .nav-arrow {
+    width: 38px;
+    height: 56px;
+    font-size: 32px;
+  }
+
+  .nav-arrow.prev {
+    left: 6px;
+  }
+
+  .nav-arrow.next {
+    right: 6px;
+  }
+}
