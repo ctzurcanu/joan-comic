@@ -202,24 +202,43 @@ function wireUi() {
 async function switchLanguage(language) {
   if (!DATA_URLS[language] || language === currentLanguage) return;
   statusEl.textContent = `Chargement de texts_${language}.json...`;
+  const previousLanguage = currentLanguage;
   currentLanguage = language;
   document.documentElement.lang = language;
-  const loaded = await loadJsonSource(language);
-  const local = localStorage.getItem(storageKey());
-  data = local ? JSON.parse(local) : loaded;
-  selectedFrameId = data.frames[activeIndex]?.id || data.frames[0]?.id || null;
-  selectedBalloonId = null;
-  pendingInsertIndex = null;
-  renderGallery();
-  if (selectedFrameId) selectFrame(selectedFrameId);
-  updateEditorVisibility();
-  updatePresentation();
-  if (presentationMode === "gallery") {
-    schedulePresentationRedraw();
-  } else {
-    redrawAllBalloons();
+  try {
+    const loaded = await loadJsonSource(language);
+    let next = loaded;
+    const local = localStorage.getItem(storageKey());
+    if (local) {
+      try {
+        const parsed = JSON.parse(local);
+        if (parsed && Array.isArray(parsed.frames)) next = parsed;
+        else localStorage.removeItem(storageKey());
+      } catch {
+        localStorage.removeItem(storageKey());
+      }
+    }
+    data = next;
+    selectedFrameId = data.frames[activeIndex]?.id || data.frames[0]?.id || null;
+    selectedBalloonId = null;
+    pendingInsertIndex = null;
+    renderGallery();
+    if (selectedFrameId) selectFrame(selectedFrameId);
+    updateEditorVisibility();
+    updatePresentation();
+    if (presentationMode === "gallery") {
+      schedulePresentationRedraw();
+    } else {
+      redrawAllBalloons();
+    }
+    statusEl.textContent = `texts_${language}.json chargé`;
+  } catch (error) {
+    console.error(error);
+    currentLanguage = previousLanguage;
+    document.documentElement.lang = previousLanguage;
+    if (languageSelect) languageSelect.value = previousLanguage;
+    statusEl.textContent = `Erreur lors du changement de langue: ${error.message}`;
   }
-  statusEl.textContent = `texts_${language}.json chargé`;
 }
 
 async function loadJsonSource(language = currentLanguage) {
