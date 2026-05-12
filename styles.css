@@ -106,11 +106,15 @@ body.editing #editToggle {
 
 .workspace {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 360px;
+  grid-template-columns: minmax(0, 1fr);
   gap: 18px;
   width: min(1840px, calc(100% - 28px));
   margin: 18px auto 56px;
   align-items: start;
+}
+
+body.editor-open .workspace {
+  grid-template-columns: minmax(0, 1fr) 360px;
 }
 
 .viewer-shell {
@@ -128,7 +132,7 @@ body.presentation-gallery {
   overflow-x: hidden;
 }
 
-body.presentation-gallery .workspace {
+body.presentation-gallery.editor-open .workspace {
   grid-template-columns: minmax(0, 1fr) 360px;
 }
 
@@ -375,6 +379,10 @@ body.editing .frame-controls {
 }
 
 .nav-arrow.next {
+  right: 18px;
+}
+
+body.editor-open .nav-arrow.next {
   right: 390px;
 }
 
@@ -462,7 +470,8 @@ body.presentation-gallery .nav-arrow {
   }
 
   .workspace,
-  body.presentation-gallery .workspace {
+  body.editor-open .workspace,
+  body.presentation-gallery.editor-open .workspace {
     grid-template-columns: 1fr;
   }
 
@@ -472,7 +481,7 @@ body.presentation-gallery .nav-arrow {
     max-height: none;
   }
 
-  .nav-arrow.next {
+  body.editor-open .nav-arrow.next {
     right: 18px;
   }
 }

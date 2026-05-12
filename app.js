@@ -32,7 +32,7 @@ const editToggle = document.querySelector("#editToggle");
 const addBalloonBtn = document.querySelector("#addBalloon");
 const exportBtn = document.querySelector("#exportJson");
 const resetBtn = document.querySelector("#resetLocal");
-const editorEmpty = document.querySelector("#editorEmpty");
+const editorPanel = document.querySelector("#editorPanel");
 const editorFields = document.querySelector("#editorFields");
 const markdownFields = document.querySelector("#markdownFields");
 const newFrameFields = document.querySelector("#newFrameFields");
@@ -721,10 +721,12 @@ function updateEditorVisibility() {
   const insertingFrame = Boolean(editMode && pendingInsertIndex != null);
   const hasSelection = Boolean(editMode && selectedBalloon());
   const hasMarkdownFrame = Boolean(editMode && !insertingFrame && !selectedBalloonId && selectedFrame()?.markdown != null);
+  const showEditor = insertingFrame || hasSelection || hasMarkdownFrame;
+  editorPanel.hidden = !showEditor;
+  document.body.classList.toggle("editor-open", showEditor);
   newFrameFields.hidden = !insertingFrame;
   editorFields.hidden = insertingFrame || !hasSelection;
   markdownFields.hidden = !hasMarkdownFrame;
-  editorEmpty.hidden = insertingFrame || hasSelection || hasMarkdownFrame;
   if (hasMarkdownFrame) loadMarkdownPanel();
 }
 
