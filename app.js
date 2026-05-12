@@ -89,7 +89,11 @@ function wireUi() {
     presentationMode = presentationModeSelect.value;
     document.body.classList.toggle("presentation-gallery", presentationMode === "gallery");
     updatePresentation();
-    schedulePresentationRedraw();
+    if (presentationMode === "gallery") {
+      schedulePresentationRedraw();
+    } else {
+      redrawAllBalloons();
+    }
     scheduleMarkdownFrameFit();
   });
 
@@ -103,7 +107,11 @@ function wireUi() {
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
-      redrawAllBalloons();
+      if (presentationMode === "gallery") {
+        schedulePresentationRedraw();
+      } else {
+        redrawAllBalloons();
+      }
       scheduleMarkdownFrameFit();
       updatePresentation();
     }, 80);
@@ -115,7 +123,11 @@ function wireUi() {
     addBalloonBtn.disabled = !editMode || !selectedFrameId;
     editToggle.textContent = editMode ? "Quitter édition" : "Mode édition";
     updateEditorVisibility();
-    redrawAllBalloons();
+    if (presentationMode === "gallery") {
+      schedulePresentationRedraw();
+    } else {
+      redrawAllBalloons();
+    }
   });
 
   addBalloonBtn.addEventListener("click", () => {
@@ -202,7 +214,11 @@ async function switchLanguage(language) {
   if (selectedFrameId) selectFrame(selectedFrameId);
   updateEditorVisibility();
   updatePresentation();
-  schedulePresentationRedraw();
+  if (presentationMode === "gallery") {
+    schedulePresentationRedraw();
+  } else {
+    redrawAllBalloons();
+  }
   statusEl.textContent = `texts_${language}.json chargé`;
 }
 
@@ -235,7 +251,10 @@ function renderGallery() {
     card.addEventListener("click", () => {
       activeIndex = index;
       selectFrame(frame.id);
-      updatePresentation();
+      if (presentationMode === "gallery") {
+        schedulePresentationRedraw();
+        scheduleMarkdownFrameFit();
+      }
     });
 
     const draw = SVG().addTo(stage).viewbox(0, 0, VIEWBOX.width, VIEWBOX.height);
@@ -506,7 +525,11 @@ function selectBalloon(frameId, balloonId) {
   selectedBalloonId = balloonId;
   loadPanel();
   updateEditorVisibility();
-  redrawAllBalloons();
+  if (presentationMode === "gallery") {
+    schedulePresentationRedraw();
+  } else {
+    redrawAllBalloons();
+  }
 }
 
 function loadPanel() {
@@ -568,9 +591,20 @@ function selectedBalloon() {
 
 function redrawAllBalloons() {
   for (const frame of data.frames) {
-    for (const balloon of frame.balloons) {
-      drawBalloonForFrame(frame, balloon);
-    }
+    redrawFrameBalloons(frame);
+  }
+}
+
+function redrawFrameBalloons(frame) {
+  for (const balloon of frame.balloons) {
+    drawBalloonForFrame(frame, balloon);
+  }
+}
+
+function redrawGalleryWindowBalloons() {
+  for (const index of galleryWindowIndexes()) {
+    const frame = data.frames[index];
+    if (frame) redrawFrameBalloons(frame);
   }
 }
 
@@ -578,11 +612,11 @@ function schedulePresentationRedraw() {
   presentationRedrawTimers.forEach((timer) => clearTimeout(timer));
   presentationRedrawTimers = [];
   requestAnimationFrame(() => {
-    redrawAllBalloons();
+    redrawGalleryWindowBalloons();
   });
-  for (const delay of [80, 240, 460]) {
+  for (const delay of [80, 240]) {
     presentationRedrawTimers.push(setTimeout(() => {
-      redrawAllBalloons();
+      redrawGalleryWindowBalloons();
     }, delay));
   }
 }
@@ -601,7 +635,9 @@ function scheduleMarkdownFrameFit() {
 }
 
 function fitAllMarkdownFrames() {
+  const visibleFrameIds = presentationMode === "gallery" ? new Set(galleryWindowIndexes().map((index) => data.frames[index]?.id)) : null;
   markdownLayers.forEach((layer, frameId) => {
+    if (visibleFrameIds && !visibleFrameIds.has(frameId)) return;
     const frame = data.frames.find((item) => item.id === frameId);
     if (frame) fitMarkdownFrame(layer, frame);
   });
@@ -741,13 +777,16 @@ function moveActive(delta) {
   activeIndex = clamp(activeIndex + delta, 0, data.frames.length - 1);
   selectFrame(data.frames[activeIndex].id);
   schedulePresentationRedraw();
+  scheduleMarkdownFrameFit();
 }
 
 function updatePresentation() {
   document.body.classList.toggle("presentation-gallery", presentationMode === "gallery");
+  const visibleIndexes = new Set(galleryWindowIndexes());
   document.querySelectorAll(".frame-card").forEach((card) => {
     const index = Number(card.dataset.index);
     card.classList.toggle("active", index === activeIndex);
+    card.classList.toggle("gallery-visible", presentationMode !== "gallery" || visibleIndexes.has(index));
   });
   if (presentationMode !== "gallery") {
     gallery.style.removeProperty("--gallery-offset");
@@ -762,6 +801,16 @@ function updatePresentation() {
     const desired = current + shellRect.left + shellRect.width / 2 - (activeRect.left + activeRect.width / 2);
     gallery.style.setProperty("--gallery-offset", `${desired}px`);
   });
+}
+
+function galleryWindowIndexes() {
+  const indexes = [];
+  const start = Math.max(0, activeIndex - 1);
+  const end = Math.min(data.frames.length - 1, activeIndex + 1);
+  for (let index = start; index <= end; index += 1) {
+    indexes.push(index);
+  }
+  return indexes;
 }
 
 function renderMarkdownFrame(stage, frame) {

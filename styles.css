@@ -164,6 +164,10 @@ body.presentation-gallery .frame-card {
   transition: transform 420ms cubic-bezier(0.2, 0.72, 0.14, 1), opacity 420ms ease;
 }
 
+body.presentation-gallery .frame-card:not(.gallery-visible) {
+  display: none;
+}
+
 body.presentation-gallery .frame-card.active {
   transform: scale(1);
   opacity: 1;
